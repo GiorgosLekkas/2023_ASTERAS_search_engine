@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/pimrc/LampropoulosKPM07,
+  author    = {George Lampropoulos and
+               Alexandros Kaloxylos and
+               Nikos I. Passas and
+               Lazaros F. Merakos},
+  title     = {A Power Consumption Analysis of Tight-Coupled {WLAN/UMTS} Networks},
+  booktitle = {Proceedings of the {IEEE} 18th International Symposium on Personal,
+               Indoor and Mobile Radio Communications, {PIMRC} 2007, 3-7 September
+               2007, Athens, Greece},
+  pages     = {1--5},
+  publisher = {{IEEE}},
+  year      = {2007},
+  url       = {https://doi.org/10.1109/PIMRC.2007.4394248},
+  doi       = {10.1109/PIMRC.2007.4394248},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/pimrc/LampropoulosKPM07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

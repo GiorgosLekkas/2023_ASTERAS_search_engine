@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/globecom/ValiPKM03,
+  author    = {Dimitra Vali and
+               Sarantis Paskalis and
+               Alexandros Kaloxylos and
+               Lazaros F. Merakos},
+  title     = {An efficient micro-mobility solution for {SIP} networks},
+  booktitle = {Proceedings of the Global Telecommunications Conference, 2003. {GLOBECOM}
+               '03, San Francisco, CA, USA, 1-5 December 2003},
+  pages     = {3088--3092},
+  publisher = {{IEEE}},
+  year      = {2003},
+  url       = {https://doi.org/10.1109/GLOCOM.2003.1258803},
+  doi       = {10.1109/GLOCOM.2003.1258803},
+  timestamp = {Wed, 16 Oct 2019 14:14:51 +0200},
+  biburl    = {https://dblp.org/rec/conf/globecom/ValiPKM03.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

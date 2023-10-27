@@ -1,0 +1,19 @@
+@article{DBLP:journals/ijnm/TriantafyllopoulouPSK07,
+  author    = {Dionysia Triantafyllopoulou and
+               Nikos I. Passas and
+               Apostolis K. Salkintzis and
+               Alexandros Kaloxylos},
+  title     = {A heuristic cross-layer mechanism for real-time traffic over {IEEE}
+               802.16 networks},
+  journal   = {Int. J. Netw. Manag.},
+  volume    = {17},
+  number    = {5},
+  pages     = {347--361},
+  year      = {2007},
+  url       = {https://doi.org/10.1002/nem.668},
+  doi       = {10.1002/nem.668},
+  timestamp = {Thu, 14 Oct 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/ijnm/TriantafyllopoulouPSK07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

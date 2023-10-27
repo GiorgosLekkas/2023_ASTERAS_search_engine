@@ -1,0 +1,23 @@
+@article{DBLP:journals/wicomm/PassasPKBNTJAOG06,
+  author    = {Nikos I. Passas and
+               Sarantis Paskalis and
+               Alexandros Kaloxylos and
+               Faouzi Bader and
+               Renato Narcisi and
+               Evangelos Tsontsis and
+               Adil S. Jahan and
+               Hamid Aghvami and
+               M{\'{a}}irt{\'{\i}}n O'Droma and
+               Ivan Ganchev},
+  title     = {Enabling technologies for the "always best connected" concept},
+  journal   = {Wirel. Commun. Mob. Comput.},
+  volume    = {6},
+  pages     = {523--540},
+  year      = {2006},
+  url       = {https://doi.org/10.1002/wcm.392},
+  doi       = {10.1002/wcm.392},
+  timestamp = {Thu, 06 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/wicomm/PassasPKBNTJAOG06.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,18 @@
+@article{DBLP:journals/cn/BarmpounakisKSA17,
+  author    = {Sokratis Barmpounakis and
+               Alexandros Kaloxylos and
+               Panagiotis Spapis and
+               Nancy Alonistioti},
+  title     = {Context-aware, user-driven, network-controlled {RAT} selection for
+               5G networks},
+  journal   = {Comput. Networks},
+  volume    = {113},
+  pages     = {124--147},
+  year      = {2017},
+  url       = {https://doi.org/10.1016/j.comnet.2016.12.008},
+  doi       = {10.1016/j.comnet.2016.12.008},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/cn/BarmpounakisKSA17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

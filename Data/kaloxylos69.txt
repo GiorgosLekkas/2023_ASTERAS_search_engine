@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/pimrc/KoutsopoulouAGK02,
+  author    = {Maria Koutsopoulou and
+               Nancy Alonistioti and
+               Evangelos N. Gazis and
+               Alexandros Kaloxylos},
+  title     = {Adaptive charging accounting and billing system for the support of
+               advanced business models for {VAS} provision in 3G systems},
+  booktitle = {12th {IEEE} International Symposium on Personal, Indoor and Mobile
+               Radio Communications, {PIMRC} 2001, 30 September 2001 - 3 October
+               2001, San Diego, CA, {USA}},
+  pages     = {B55--B59},
+  publisher = {{IEEE}},
+  year      = {2002},
+  url       = {https://doi.org/10.1109/PIMRC.2001.965430},
+  doi       = {10.1109/PIMRC.2001.965430},
+  timestamp = {Wed, 16 Oct 2019 14:14:50 +0200},
+  biburl    = {https://dblp.org/rec/conf/pimrc/KoutsopoulouAGK02.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

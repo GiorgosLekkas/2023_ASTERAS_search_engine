@@ -1,0 +1,32 @@
+@inproceedings{DBLP:conf/crowncom/Chatzikokolakis15,
+  author    = {Konstantinos Chatzikokolakis and
+               Alexandros Kaloxylos and
+               Panagiotis Spapis and
+               Nancy Alonistioti and
+               Chan Zhou and
+               Josef Eichinger and
+               {\"{O}}mer Bulakci},
+  editor    = {Mark Weichold and
+               Mounir Hamdi and
+               Muhammad Zeeshan Shakir and
+               Mohamed M. Abdallah and
+               George K. Karagiannidis and
+               Muhammad Ismail},
+  title     = {On the Way to Massive Access in 5G: Challenges and Solutions for Massive
+               Machine Communications - (Invited Paper)},
+  booktitle = {Cognitive Radio Oriented Wireless Networks - 10th International Conference,
+               {CROWNCOM} 2015, Doha, Qatar, April 21-23, 2015, Revised Selected
+               Papers},
+  series    = {Lecture Notes of the Institute for Computer Sciences, Social Informatics
+               and Telecommunications Engineering},
+  volume    = {156},
+  pages     = {708--717},
+  publisher = {Springer},
+  year      = {2015},
+  url       = {https://doi.org/10.1007/978-3-319-24540-9\_58},
+  doi       = {10.1007/978-3-319-24540-9\_58},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/crowncom/Chatzikokolakis15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

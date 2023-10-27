@@ -1,0 +1,19 @@
+@article{DBLP:journals/comcom/KaloxylosLPM06,
+  author    = {Alexandros Kaloxylos and
+               George Lampropoulos and
+               Nikos I. Passas and
+               Lazaros F. Merakos},
+  title     = {A flexible handover mechanism for seamless service continuity in heterogeneous
+               environments},
+  journal   = {Comput. Commun.},
+  volume    = {29},
+  number    = {6},
+  pages     = {717--729},
+  year      = {2006},
+  url       = {https://doi.org/10.1016/j.comcom.2005.07.027},
+  doi       = {10.1016/j.comcom.2005.07.027},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/comcom/KaloxylosLPM06.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

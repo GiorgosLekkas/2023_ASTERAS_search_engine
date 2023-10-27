@@ -1,0 +1,18 @@
+@article{DBLP:journals/comsur/LampropoulosPMK05,
+  author    = {George Lampropoulos and
+               Nikos I. Passas and
+               Lazaros F. Merakos and
+               Alexandros Kaloxylos},
+  title     = {Handover management architectures in integrated WLAN/cellular networks},
+  journal   = {{IEEE} Commun. Surv. Tutorials},
+  volume    = {7},
+  number    = {1-4},
+  pages     = {30--44},
+  year      = {2005},
+  url       = {https://doi.org/10.1109/COMST.2005.1593278},
+  doi       = {10.1109/COMST.2005.1593278},
+  timestamp = {Thu, 09 Apr 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/comsur/LampropoulosPMK05.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

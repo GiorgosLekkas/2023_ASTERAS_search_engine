@@ -1,0 +1,19 @@
+@article{DBLP:journals/ijcns/ModeasKLPM09,
+  author    = {Ioannis Modeas and
+               Alexandros Kaloxylos and
+               George Lampropoulos and
+               Nikos I. Passas and
+               Lazaros F. Merakos},
+  title     = {Radio Access Selection in Integrated {UMTS/WLAN} Networks},
+  journal   = {Int. J. Commun. Netw. Syst. Sci.},
+  volume    = {2},
+  number    = {9},
+  pages     = {805--821},
+  year      = {2009},
+  url       = {https://doi.org/10.4236/ijcns.2009.29094},
+  doi       = {10.4236/ijcns.2009.29094},
+  timestamp = {Fri, 02 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/ijcns/ModeasKLPM09.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

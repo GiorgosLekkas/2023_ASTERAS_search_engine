@@ -1,0 +1,19 @@
+@article{DBLP:journals/ett/TsoulosBZAK17,
+  author    = {George V. Tsoulos and
+               {\"{O}}mer Bulakci and
+               Dimitra Zarbouti and
+               Georgia E. Athanasiadou and
+               Alexandros Kaloxylos},
+  title     = {Dynamic wireless network shaping via moving cells: The nomadic nodes
+               case},
+  journal   = {Trans. Emerg. Telecommun. Technol.},
+  volume    = {28},
+  number    = {6},
+  year      = {2017},
+  url       = {https://doi.org/10.1002/ett.3145},
+  doi       = {10.1002/ett.3145},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/ett/TsoulosBZAK17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

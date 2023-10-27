@@ -1,0 +1,17 @@
+@article{DBLP:journals/wpc/MagdalinosKA15,
+  author    = {Panagis Magdalinos and
+               Alexandros Kaloxylos and
+               Nancy Alonistioti},
+  title     = {Context Monitoring Optimization in Autonomic Networks},
+  journal   = {Wirel. Pers. Commun.},
+  volume    = {81},
+  number    = {1},
+  pages     = {279--302},
+  year      = {2015},
+  url       = {https://doi.org/10.1007/s11277-014-2128-x},
+  doi       = {10.1007/s11277-014-2128-x},
+  timestamp = {Thu, 20 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/wpc/MagdalinosKA15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

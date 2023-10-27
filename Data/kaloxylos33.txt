@@ -1,0 +1,28 @@
+@article{DBLP:journals/ijnm/TsagkarisNGYGKGKBGBAD13,
+  author    = {Kostas Tsagkaris and
+               G{\'{e}}rard Nguengang and
+               Aristi Galani and
+               Imen Grida Ben Yahia and
+               Majid Ghader and
+               Alexandros Kaloxylos and
+               Markus Gruber and
+               Apostolos Kousaridas and
+               Mathieu Bouet and
+               Stylianos Georgoulas and
+               Aimilia Bantouna and
+               Nancy Alonistioti and
+               Panagiotis Demestichas},
+  title     = {A survey of autonomic networking architectures: towards a Unified
+               Management Framework},
+  journal   = {Int. J. Netw. Manag.},
+  volume    = {23},
+  number    = {6},
+  pages     = {402--423},
+  year      = {2013},
+  url       = {https://doi.org/10.1002/nem.1841},
+  doi       = {10.1002/nem.1841},
+  timestamp = {Sun, 02 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/ijnm/TsagkarisNGYGKGKBGBAD13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

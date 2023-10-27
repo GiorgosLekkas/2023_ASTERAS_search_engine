@@ -1,0 +1,30 @@
+@article{DBLP:journals/ijnm/NolteKTRSGBMTGAHADK11,
+  author    = {Klaus Nolte and
+               Alexandros Kaloxylos and
+               Kostas Tsagkaris and
+               Thomas Rosowski and
+               Makis Stamatelatos and
+               Aristi Galani and
+               Eckard Bogenfeld and
+               Panagis Magdalinos and
+               Jens Tiemann and
+               Jens Gebert and
+               Paul Arnold and
+               Dirk von Hugo and
+               Nancy Alonistioti and
+               Panagiotis Demestichas and
+               Wolfgang Koenig},
+  title     = {The {E3} architecture: enabling future cellular networks with cognitive
+               and self-x capabilities},
+  journal   = {Int. J. Netw. Manag.},
+  volume    = {21},
+  number    = {5},
+  pages     = {360--383},
+  year      = {2011},
+  url       = {https://doi.org/10.1002/nem.762},
+  doi       = {10.1002/nem.762},
+  timestamp = {Sun, 02 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/ijnm/NolteKTRSGBMTGAHADK11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

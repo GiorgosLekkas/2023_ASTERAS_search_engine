@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/pimrc/PaskalisKZM02,
+  author    = {Sarantis Paskalis and
+               Alexandros Kaloxylos and
+               Evangelos Zervas and
+               Lazaros F. Merakos},
+  title     = {Evaluating the {RSVP} mobility proxy concept},
+  booktitle = {The 13th {IEEE} International Symposium on Personal, Indoor and Mobile
+               Radio Communications, Lisboa, Portugal, September 15-18, 2002},
+  pages     = {270--274},
+  publisher = {{IEEE}},
+  year      = {2002},
+  url       = {https://doi.org/10.1109/PIMRC.2002.1046703},
+  doi       = {10.1109/PIMRC.2002.1046703},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/pimrc/PaskalisKZM02.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

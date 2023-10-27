@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/iisa/SpapisCAK14,
+  author    = {Panagiotis Spapis and
+               Konstantinos Chatzikokolakis and
+               Nancy Alonistioti and
+               Alexandros Kaloxylos},
+  editor    = {Nikolaos G. Bourbakis and
+               George A. Tsihrintzis and
+               Maria Virvou},
+  title     = {Using {SDN} as a key enabler for co-primary spectrum sharing},
+  booktitle = {5th International Conference on Information, Intelligence, Systems
+               and Applications, {IISA} 2014, Chania, Crete, Greece, July 7-9, 2014},
+  pages     = {366--371},
+  publisher = {{IEEE}},
+  year      = {2014},
+  url       = {https://doi.org/10.1109/IISA.2014.6878752},
+  doi       = {10.1109/IISA.2014.6878752},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/iisa/SpapisCAK14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

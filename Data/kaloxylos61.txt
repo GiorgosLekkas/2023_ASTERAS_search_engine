@@ -1,0 +1,18 @@
+@article{DBLP:journals/comsur/ValiPMK04,
+  author    = {Dimitra Vali and
+               Sarantis Paskalis and
+               Lazaros F. Merakos and
+               Alexandros Kaloxylos},
+  title     = {A survey of internet QoS signaling},
+  journal   = {{IEEE} Commun. Surv. Tutorials},
+  volume    = {6},
+  number    = {1-4},
+  pages     = {32--43},
+  year      = {2004},
+  url       = {https://doi.org/10.1109/COMST.2004.5342297},
+  doi       = {10.1109/COMST.2004.5342297},
+  timestamp = {Thu, 09 Apr 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/comsur/ValiPMK04.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,22 @@
+@article{DBLP:journals/cm/MarschSBTARKB16,
+  author    = {Patrick Marsch and
+               Icaro Leonardo Da Silva and
+               {\"{O}}mer Bulakci and
+               Milos Tesanovic and
+               Salah Eddine El Ayoubi and
+               Thomas Rosowski and
+               Alexandros Kaloxylos and
+               Mauro Renato Boldi},
+  title     = {5G Radio Access Network Architecture: Design Guidelines and Key Considerations},
+  journal   = {{IEEE} Commun. Mag.},
+  volume    = {54},
+  number    = {11},
+  pages     = {24--32},
+  year      = {2016},
+  url       = {https://doi.org/10.1109/MCOM.2016.1600147CM},
+  doi       = {10.1109/MCOM.2016.1600147CM},
+  timestamp = {Tue, 14 Dec 2021 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/cm/MarschSBTARKB16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

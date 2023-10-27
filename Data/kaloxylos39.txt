@@ -1,0 +1,31 @@
+@inproceedings{DBLP:conf/monami/CiavagliaAPKATVD11,
+  author    = {Laurent Ciavaglia and
+               Zwi Altman and
+               Eleni Patouni and
+               Alexandros Kaloxylos and
+               Nancy Alonistioti and
+               Kostas Tsagkaris and
+               Panagiotis Vlacheas and
+               Panagiotis Demestichas},
+  editor    = {Kostas Pentikousis and
+               Rui L. Aguiar and
+               Susana Sargento and
+               Ram{\'{o}}n Ag{\"{u}}ero},
+  title     = {Coordination of Self-Organizing Network Mechanisms: Framework and
+               Enablers},
+  booktitle = {Mobile Networks and Management - Third International {ICST} Conference,
+               {MONAMI} 2011, Aveiro, Portugal, September 21-23, 2011, Revised Selected
+               Papers},
+  series    = {Lecture Notes of the Institute for Computer Sciences, Social Informatics
+               and Telecommunications Engineering},
+  volume    = {97},
+  pages     = {174--184},
+  publisher = {Springer},
+  year      = {2011},
+  url       = {https://doi.org/10.1007/978-3-642-30422-4\_13},
+  doi       = {10.1007/978-3-642-30422-4\_13},
+  timestamp = {Sun, 02 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/monami/CiavagliaAPKATVD11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

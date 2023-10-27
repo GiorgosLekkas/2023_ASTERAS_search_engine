@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/cits/0002BASK15,
+  author    = {Konstantinos Chatzikokolakis and
+               George Beinas and
+               Nancy Alonistioti and
+               Panagiotis Spapis and
+               Alexandros Kaloxylos},
+  title     = {Spectrum sharing: {A} coordination framework enabled by fuzzy logic},
+  booktitle = {International Conference on Computer, Information and Telecommunication
+               Systems, {CITS} 2015, Gijon, Spain, July 15-17, 2015},
+  pages     = {1--5},
+  publisher = {{IEEE}},
+  year      = {2015},
+  url       = {https://doi.org/10.1109/CITS.2015.7297761},
+  doi       = {10.1109/CITS.2015.7297761},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/cits/0002BASK15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

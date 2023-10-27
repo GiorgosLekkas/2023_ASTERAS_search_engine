@@ -1,0 +1,18 @@
+@article{DBLP:journals/wpc/LampropoulosPKM07,
+  author    = {George Lampropoulos and
+               Nikos I. Passas and
+               Alexandros Kaloxylos and
+               Lazaros F. Merakos},
+  title     = {A flexible {UMTS/WLAN} architecture for improved network performance},
+  journal   = {Wirel. Pers. Commun.},
+  volume    = {43},
+  number    = {3},
+  pages     = {889--906},
+  year      = {2007},
+  url       = {https://doi.org/10.1007/s11277-007-9254-7},
+  doi       = {10.1007/s11277-007-9254-7},
+  timestamp = {Thu, 20 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/wpc/LampropoulosPKM07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

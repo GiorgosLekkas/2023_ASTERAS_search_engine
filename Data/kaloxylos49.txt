@@ -1,0 +1,19 @@
+@article{DBLP:journals/comcom/KoutsopoulouKAM07,
+  author    = {Maria Koutsopoulou and
+               Alexandros Kaloxylos and
+               Athanassia Alonistioti and
+               Lazaros F. Merakos},
+  title     = {A platform for charging, billing, and accounting in future mobile
+               networks},
+  journal   = {Comput. Commun.},
+  volume    = {30},
+  number    = {3},
+  pages     = {516--526},
+  year      = {2007},
+  url       = {https://doi.org/10.1016/j.comcom.2005.11.022},
+  doi       = {10.1016/j.comcom.2005.11.022},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/comcom/KoutsopoulouKAM07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

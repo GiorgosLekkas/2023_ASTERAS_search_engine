@@ -1,0 +1,17 @@
+@article{DBLP:journals/cn/ModeasKMT21,
+  author    = {Ioannis Modeas and
+               Alexandros Kaloxylos and
+               Lazaros F. Merakos and
+               Dimitris Tsolkas},
+  title     = {An adaptive and distributed network selection mechanism for 5G networks},
+  journal   = {Comput. Networks},
+  volume    = {189},
+  pages     = {107943},
+  year      = {2021},
+  url       = {https://doi.org/10.1016/j.comnet.2021.107943},
+  doi       = {10.1016/j.comnet.2021.107943},
+  timestamp = {Thu, 08 Apr 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/cn/ModeasKMT21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

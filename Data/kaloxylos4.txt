@@ -1,0 +1,19 @@
+@article{DBLP:journals/cn/ChousainovMSKL20,
+  author    = {Iskanter{-}Alexandros Chousainov and
+               Ioannis D. Moscholios and
+               Panagiotis G. Sarigiannidis and
+               Alexandros Kaloxylos and
+               Michael D. Logothetis},
+  title     = {An analytical framework of a {C-RAN} supporting random, quasi-random
+               and bursty traffic},
+  journal   = {Comput. Networks},
+  volume    = {180},
+  pages     = {107410},
+  year      = {2020},
+  url       = {https://doi.org/10.1016/j.comnet.2020.107410},
+  doi       = {10.1016/j.comnet.2020.107410},
+  timestamp = {Mon, 28 Sep 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/cn/ChousainovMSKL20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/pimrc/AlonistiotiGFK04,
+  author    = {Nancy Alonistioti and
+               Aristotelis Glentis and
+               Fotis Foukalas and
+               Alexandros Kaloxylos},
+  title     = {{RMP:} reconfiguration management plane for the support of policy
+               based network reconfiguration},
+  booktitle = {Proceedings of the {IEEE} 15th International Symposium on Personal,
+               Indoor and Mobile Radio Communications, {PIMRC} 2004, 5-8 September
+               2004, Barcelona, Spain},
+  pages     = {1394--1397},
+  publisher = {{IEEE}},
+  year      = {2004},
+  url       = {https://doi.org/10.1109/PIMRC.2004.1373927},
+  doi       = {10.1109/PIMRC.2004.1373927},
+  timestamp = {Thu, 25 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/pimrc/AlonistiotiGFK04.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

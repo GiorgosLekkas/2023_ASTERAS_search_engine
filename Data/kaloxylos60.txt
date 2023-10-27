@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/icete/AlonistiotiKM05,
+  author    = {Nancy Alonistioti and
+               Alexandros Kaloxylos and
+               Andreas Maras},
+  editor    = {Joaquim Filipe and
+               Luminita Vasiu},
+  title     = {Mobility management for beyond 3G reconfigurable systems},
+  booktitle = {{ICETE} 2005 - Proceedings of the Second International Conference
+               on e-Business and Telecommunication Networks, Reading, UK, October
+               3-7, 2005},
+  pages     = {5--12},
+  publisher = {{INSTICC} Press},
+  year      = {2005},
+  timestamp = {Tue, 07 Nov 2006 14:13:57 +0100},
+  biburl    = {https://dblp.org/rec/conf/icete/AlonistiotiKM05.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

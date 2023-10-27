@@ -1,0 +1,22 @@
+@article{DBLP:journals/tits/Martin-Sacristan21,
+  author    = {David Mart{\'{\i}}n{-}Sacrist{\'{a}}n and
+               Sandra Roger and
+               David Garcia{-}Roger and
+               Jose F. Monserrat and
+               Panagiotis Spapis and
+               Chan Zhou and
+               Alexandros Kaloxylos},
+  title     = {Low-Latency Infrastructure-Based Cellular {V2V} Communications for
+               Multi-Operator Environments With Regional Split},
+  journal   = {{IEEE} Trans. Intell. Transp. Syst.},
+  volume    = {22},
+  number    = {2},
+  pages     = {1052--1067},
+  year      = {2021},
+  url       = {https://doi.org/10.1109/TITS.2019.2962097},
+  doi       = {10.1109/TITS.2019.2962097},
+  timestamp = {Thu, 11 Feb 2021 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/tits/Martin-Sacristan21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

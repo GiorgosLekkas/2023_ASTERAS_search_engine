@@ -1,0 +1,22 @@
+@article{DBLP:journals/tits/RogerMGMSKAK19,
+  author    = {Sandra Roger and
+               David Mart{\'{\i}}n{-}Sacrist{\'{a}}n and
+               David Garcia{-}Roger and
+               Jose F. Monserrat and
+               Panagiotis Spapis and
+               Apostolos Kousaridas and
+               Serkan Ayaz and
+               Alexandros Kaloxylos},
+  title     = {Low-Latency Layer-2-Based Multicast Scheme for Localized {V2X} Communications},
+  journal   = {{IEEE} Trans. Intell. Transp. Syst.},
+  volume    = {20},
+  number    = {8},
+  pages     = {2962--2975},
+  year      = {2019},
+  url       = {https://doi.org/10.1109/TITS.2018.2870198},
+  doi       = {10.1109/TITS.2018.2870198},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/tits/RogerMGMSKAK19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

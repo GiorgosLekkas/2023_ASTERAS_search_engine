@@ -1,0 +1,28 @@
+@inproceedings{DBLP:conf/aims/Chatzikokolakis16,
+  author    = {Konstantinos Chatzikokolakis and
+               Alexandros Kaloxylos and
+               Panagiotis Spapis and
+               Chan Zhou and
+               {\"{O}}mer Bulakci and
+               Nancy Alonistioti},
+  editor    = {R{\'{e}}mi Badonnel and
+               Robert Koch and
+               Aiko Pras and
+               Martin Drasar and
+               Burkhard Stiller},
+  title     = {Context-Aware Location Management of Groups of Devices in 5G Networks},
+  booktitle = {Management and Security in the Age of Hyperconnectivity - 10th {IFIP}
+               {WG} 6.6 International Conference on Autonomous Infrastructure, Management,
+               and Security, {AIMS} 2016, Munich, Germany, June 20-23, 2016, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {9701},
+  pages     = {155--159},
+  publisher = {Springer},
+  year      = {2016},
+  url       = {https://doi.org/10.1007/978-3-319-39814-3\_17},
+  doi       = {10.1007/978-3-319-39814-3\_17},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/aims/Chatzikokolakis16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

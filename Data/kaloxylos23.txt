@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/eucnc/SilvaMKSBTZB16,
+  author    = {Icaro da Silva and
+               Gunnar Mildh and
+               Alexandros Kaloxylos and
+               Panagiotis Spapis and
+               Enrico Buracchini and
+               Alessandro Trogolo and
+               Gerd Zimmermann and
+               Nico Bayer},
+  title     = {Impact of network slicing on 5G Radio Access Networks},
+  booktitle = {European Conference on Networks and Communications, EuCNC 2016, Athens,
+               Greece, June 27-30, 2016},
+  pages     = {153--157},
+  publisher = {{IEEE}},
+  year      = {2016},
+  url       = {https://doi.org/10.1109/EuCNC.2016.7561023},
+  doi       = {10.1109/EuCNC.2016.7561023},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/eucnc/SilvaMKSBTZB16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

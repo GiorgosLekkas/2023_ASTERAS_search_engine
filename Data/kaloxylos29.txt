@@ -1,0 +1,22 @@
+@article{DBLP:journals/ijnm/KousaridasKMMKHA14,
+  author    = {Apostolos Kousaridas and
+               Alexandros Kaloxylos and
+               Panagis Magdalinos and
+               Thanos Makris and
+               Georgios P. Koudouridis and
+               Gunnar Hedby and
+               Nancy Alonistioti},
+  title     = {Integrating the self-growing concept in a self-organizing wireless
+               network for topology optimization},
+  journal   = {Int. J. Netw. Manag.},
+  volume    = {24},
+  number    = {2},
+  pages     = {121--152},
+  year      = {2014},
+  url       = {https://doi.org/10.1002/nem.1856},
+  doi       = {10.1002/nem.1856},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/ijnm/KousaridasKMMKHA14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

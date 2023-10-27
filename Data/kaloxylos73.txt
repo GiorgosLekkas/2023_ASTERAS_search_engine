@@ -1,0 +1,17 @@
+@article{DBLP:journals/sigmobile/KaloxylosHM99,
+  author    = {Alexandros Kaloxylos and
+               Harri Hans{\'{e}}n and
+               Lazaros F. Merakos},
+  title     = {Mobility management for large private wireless {ATM} installations},
+  journal   = {{ACM} {SIGMOBILE} Mob. Comput. Commun. Rev.},
+  volume    = {3},
+  number    = {1},
+  pages     = {47--55},
+  year      = {1999},
+  url       = {https://doi.org/10.1145/1321414.1321418},
+  doi       = {10.1145/1321414.1321418},
+  timestamp = {Sun, 17 May 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/sigmobile/KaloxylosHM99.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

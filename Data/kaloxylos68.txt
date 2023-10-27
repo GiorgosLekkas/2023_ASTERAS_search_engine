@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/pimrc/PanagiotakisKAK02,
+  author    = {Spyridon Panagiotakis and
+               Maria Koutsopoulou and
+               Athanassia Alonistioti and
+               Alexandros Kaloxylos},
+  title     = {Generic framework for the provision of efficient location-based charging
+               over future mobile communication networks},
+  booktitle = {The 13th {IEEE} International Symposium on Personal, Indoor and Mobile
+               Radio Communications, Lisboa, Portugal, September 15-18, 2002},
+  pages     = {755--759},
+  publisher = {{IEEE}},
+  year      = {2002},
+  url       = {https://doi.org/10.1109/PIMRC.2002.1047323},
+  doi       = {10.1109/PIMRC.2002.1047323},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/pimrc/PanagiotakisKAK02.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/vtc/SahinBSK17,
+  author    = {Taylan Sahin and
+               {\"{O}}mer Bulakci and
+               Panagiotis Spapis and
+               Alexandros Kaloxylos},
+  title     = {Flexible Network Deployment in 5G: Performance of Vehicular Nomadic
+               Nodes},
+  booktitle = {85th {IEEE} Vehicular Technology Conference, {VTC} Spring 2017, Sydney,
+               Australia, June 4-7, 2017},
+  pages     = {1--6},
+  publisher = {{IEEE}},
+  year      = {2017},
+  url       = {https://doi.org/10.1109/VTCSpring.2017.8108598},
+  doi       = {10.1109/VTCSpring.2017.8108598},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/vtc/SahinBSK17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/eucnc/FragkosMGKK22,
+  author    = {Dimitrios Fragkos and
+               George Makropoulos and
+               Anastasios Gogos and
+               Harilaos Koumaras and
+               Alexandros Kaloxylos},
+  title     = {NEFSim: An open experimentation framework utilizing 3GPP's exposure
+               services},
+  booktitle = {2022 Joint European Conference on Networks and Communications {\&}
+               6G Summit, EuCNC/6G Summit 2022, Grenoble, France, June 7-10, 2022},
+  pages     = {303--308},
+  publisher = {{IEEE}},
+  year      = {2022},
+  url       = {https://doi.org/10.1109/EuCNC/6GSummit54941.2022.9815829},
+  doi       = {10.1109/EuCNC/6GSummit54941.2022.9815829},
+  timestamp = {Fri, 22 Jul 2022 12:44:19 +0200},
+  biburl    = {https://dblp.org/rec/conf/eucnc/FragkosMGKK22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

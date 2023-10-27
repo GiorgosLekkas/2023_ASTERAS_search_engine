@@ -1,0 +1,22 @@
+@article{DBLP:journals/comcom/MagdalinosBSKKK17,
+  author    = {Panagis Magdalinos and
+               Sokratis Barmpounakis and
+               Panagiotis Spapis and
+               Alexandros Kaloxylos and
+               Georgios Kyprianidis and
+               Apostolos Kousaridas and
+               Nancy Alonistioti and
+               Chan Zhou},
+  title     = {A context extraction and profiling engine for 5G network resource
+               mapping},
+  journal   = {Comput. Commun.},
+  volume    = {109},
+  pages     = {184--201},
+  year      = {2017},
+  url       = {https://doi.org/10.1016/j.comcom.2017.06.003},
+  doi       = {10.1016/j.comcom.2017.06.003},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/comcom/MagdalinosBSKKK17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

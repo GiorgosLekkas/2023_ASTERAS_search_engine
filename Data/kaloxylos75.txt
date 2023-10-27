@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/pimrc/KaloxylosAHM98,
+  author    = {Alexandros Kaloxylos and
+               Giannis Alexiou and
+               Stathes Hadjiefthymiades and
+               Lazaros F. Merakos},
+  title     = {Design and performance evaluation of a mobility management protocol
+               for wireless {ATM} networks},
+  booktitle = {The 9th {IEEE} International Symposium on Personal, Indoor and Mobile
+               Radio Communications, {PIMRC} 1998, Boston, MA, USA, September 8-11,
+               1998},
+  pages     = {728--732},
+  publisher = {{IEEE}},
+  year      = {1998},
+  url       = {https://doi.org/10.1109/PIMRC.1998.734363},
+  doi       = {10.1109/PIMRC.1998.734363},
+  timestamp = {Tue, 19 May 2020 15:57:12 +0200},
+  biburl    = {https://dblp.org/rec/conf/pimrc/KaloxylosAHM98.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,15 @@
+@article{DBLP:journals/csm/Kaloxylos18,
+  author    = {Alexandros Kaloxylos},
+  title     = {A Survey and an Analysis of Network Slicing in 5G Networks},
+  journal   = {{IEEE} Commun. Stand. Mag.},
+  volume    = {2},
+  number    = {1},
+  pages     = {60--65},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/MCOMSTD.2018.1700072},
+  doi       = {10.1109/MCOMSTD.2018.1700072},
+  timestamp = {Thu, 27 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/csm/Kaloxylos18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

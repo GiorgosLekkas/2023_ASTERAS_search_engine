@@ -1,0 +1,19 @@
+@article{DBLP:journals/tmm/TriantafyllopoulouPKM09,
+  author    = {Dionysia Triantafyllopoulou and
+               Nikos I. Passas and
+               Alexandros Kaloxylos and
+               Lazaros F. Merakos},
+  title     = {Coordinated Handover Initiation and Cross-Layer Adaptation for Mobile
+               Multimedia Systems},
+  journal   = {{IEEE} Trans. Multim.},
+  volume    = {11},
+  number    = {6},
+  pages     = {1131--1139},
+  year      = {2009},
+  url       = {https://doi.org/10.1109/TMM.2009.2026098},
+  doi       = {10.1109/TMM.2009.2026098},
+  timestamp = {Thu, 14 Oct 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/tmm/TriantafyllopoulouPKM09.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

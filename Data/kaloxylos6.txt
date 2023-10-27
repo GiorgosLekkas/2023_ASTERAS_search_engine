@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/icc/ChousainovMSKL20,
+  author    = {Iskanter{-}Alexandros Chousainov and
+               Ioannis D. Moscholios and
+               Panagiotis G. Sarigiannidis and
+               Alexandros Kaloxylos and
+               Michael D. Logothetis},
+  title     = {An Analytical Framework of a {C-RAN} Supporting Bursty Traffic},
+  booktitle = {2020 {IEEE} International Conference on Communications, {ICC} 2020,
+               Dublin, Ireland, June 7-11, 2020},
+  pages     = {1--6},
+  publisher = {{IEEE}},
+  year      = {2020},
+  url       = {https://doi.org/10.1109/ICC40277.2020.9149219},
+  doi       = {10.1109/ICC40277.2020.9149219},
+  timestamp = {Tue, 04 Aug 2020 10:37:23 +0200},
+  biburl    = {https://dblp.org/rec/conf/icc/ChousainovMSKL20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

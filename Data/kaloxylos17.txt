@@ -1,0 +1,24 @@
+@inproceedings{DBLP:conf/pci/Kaloxylos17a,
+  author    = {Alexandros Kaloxylos},
+  editor    = {Vasileios Vlachos and
+               Ilias K. Savvas and
+               Cleo Sgouropoulou and
+               Vassilis P. Plagianakos and
+               Christos Douligeris and
+               Ioannis Voyiatzis and
+               Vassilis Tampakas and
+               George Soultis},
+  title     = {Network slicing for 5G networks: {A} survey and an analysis of future
+               trends},
+  booktitle = {Proceedings of the 21st Pan-Hellenic Conference on Informatics, Larissa,
+               Greece, September 28-30, 2017},
+  pages     = {26:1--26:2},
+  publisher = {{ACM}},
+  year      = {2017},
+  url       = {https://doi.org/10.1145/3139367.3139392},
+  doi       = {10.1145/3139367.3139392},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/pci/Kaloxylos17a.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

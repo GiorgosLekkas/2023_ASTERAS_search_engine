@@ -1,0 +1,16 @@
+@article{DBLP:journals/monet/PaskalisKZM03,
+  author    = {Sarantis Paskalis and
+               Alexandros Kaloxylos and
+               Evangelos Zervas and
+               Lazaros F. Merakos},
+  title     = {An Efficient RSVP-Mobile {IP} Interworking Scheme},
+  journal   = {Mob. Networks Appl.},
+  volume    = {8},
+  number    = {3},
+  pages     = {197--207},
+  year      = {2003},
+  timestamp = {Thu, 24 Sep 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/monet/PaskalisKZM03.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

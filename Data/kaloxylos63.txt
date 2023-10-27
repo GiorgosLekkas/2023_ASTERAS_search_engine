@@ -1,0 +1,20 @@
+@article{DBLP:journals/ijmc/KoutsopoulouKAMP04,
+  author    = {Maria Koutsopoulou and
+               Alexandros Kaloxylos and
+               Athanassia Alonistioti and
+               Lazaros F. Merakos and
+               Panos Philippopoulos},
+  title     = {An integrated charging, accounting and billing management platform
+               for the support of innovative business models in mobile networks},
+  journal   = {Int. J. Mob. Commun.},
+  volume    = {2},
+  number    = {4},
+  pages     = {418--434},
+  year      = {2004},
+  url       = {https://doi.org/10.1504/IJMC.2004.005864},
+  doi       = {10.1504/IJMC.2004.005864},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/ijmc/KoutsopoulouKAMP04.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

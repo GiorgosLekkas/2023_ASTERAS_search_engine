@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/globecom/EmmelmannBMKK12,
+  author    = {Marc Emmelmann and
+               Bernd Bochow and
+               Athanasios Makris and
+               Alexandros Kaloxylos and
+               Georgios P. Koudouridis},
+  title     = {The self-growing concept as a design principle of cognitive self-organization},
+  booktitle = {Workshops Proceedings of the Global Communications Conference, {GLOBECOM}
+               2012, 3-7 December 2012, Anaheim, California, {USA}},
+  pages     = {897--902},
+  publisher = {{IEEE}},
+  year      = {2012},
+  url       = {https://doi.org/10.1109/GLOCOMW.2012.6477695},
+  doi       = {10.1109/GLOCOMW.2012.6477695},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/globecom/EmmelmannBMKK12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

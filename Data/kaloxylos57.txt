@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/pimrc/LampropoulosKPM06,
+  author    = {George Lampropoulos and
+               Alexandros Kaloxylos and
+               Nikos I. Passas and
+               Lazaros F. Merakos},
+  title     = {A Seamless Service Continuity Scheme for Enhanced Network Performance
+               in {UMTS/WLAN} Networks},
+  booktitle = {Proceedings of the {IEEE} 17th International Symposium on Personal,
+               Indoor and Mobile Radio Communications, {PIMRC} 2006, 11-14 September
+               2006, Helsiniki, Finland},
+  pages     = {1--5},
+  publisher = {{IEEE}},
+  year      = {2006},
+  url       = {https://doi.org/10.1109/PIMRC.2006.254041},
+  doi       = {10.1109/PIMRC.2006.254041},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/pimrc/LampropoulosKPM06.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

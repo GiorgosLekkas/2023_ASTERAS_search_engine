@@ -1,0 +1,18 @@
+@article{DBLP:journals/monet/ZervasKM01,
+  author    = {Evangelos Zervas and
+               Alexandros Kaloxylos and
+               Lazaros F. Merakos},
+  title     = {An Efficient Location Management Protocol for Wireless {ATM} Customer
+               Premises Networks},
+  journal   = {Mob. Networks Appl.},
+  volume    = {6},
+  number    = {2},
+  pages     = {125--135},
+  year      = {2001},
+  url       = {https://doi.org/10.1023/A:1011496106405},
+  doi       = {10.1023/A:1011496106405},
+  timestamp = {Thu, 24 Sep 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/monet/ZervasKM01.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

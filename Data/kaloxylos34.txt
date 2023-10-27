@@ -1,0 +1,28 @@
+@inproceedings{DBLP:conf/monami/StamatelatosYPFTK13,
+  author    = {Makis Stamatelatos and
+               Imen Grida Ben Yahia and
+               Pierre Peloso and
+               Beatriz Fuentes and
+               Kostas Tsagkaris and
+               Alexandros Kaloxylos},
+  editor    = {Dirk Pesch and
+               Andreas Timm{-}Giel and
+               Ram{\'{o}}n Ag{\"{u}}ero Calvo and
+               Bernd{-}Ludwig Wenning and
+               Kostas Pentikousis},
+  title     = {Information Model for Managing Autonomic Functions in Future Networks},
+  booktitle = {Mobile Networks and Management - 5th International Conference, {MONAMI}
+               2013, Cork, Ireland, September 23-25, 2013, Revised Selected Papers},
+  series    = {Lecture Notes of the Institute for Computer Sciences, Social Informatics
+               and Telecommunications Engineering},
+  volume    = {125},
+  pages     = {259--272},
+  publisher = {Springer},
+  year      = {2013},
+  url       = {https://doi.org/10.1007/978-3-319-04277-0\_20},
+  doi       = {10.1007/978-3-319-04277-0\_20},
+  timestamp = {Sun, 02 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/monami/StamatelatosYPFTK13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

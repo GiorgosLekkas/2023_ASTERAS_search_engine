@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/iwcmc/KaloxylosBSA14,
+  author    = {Alexandros Kaloxylos and
+               Sokratis Barmpounakis and
+               Panagiotis Spapis and
+               Nancy Alonistioti},
+  editor    = {Mario Gerla and
+               Khaled Ben Letaief and
+               George C. Hadjichristofi and
+               Christian Callegari},
+  title     = {An efficient {RAT} selection mechanism for 5G cellular networks},
+  booktitle = {International Wireless Communications and Mobile Computing Conference,
+               {IWCMC} 2014, Nicosia, Cyprus, August 4-8, 2014},
+  pages     = {942--947},
+  publisher = {{IEEE}},
+  year      = {2014},
+  url       = {https://doi.org/10.1109/IWCMC.2014.6906482},
+  doi       = {10.1109/IWCMC.2014.6906482},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/iwcmc/KaloxylosBSA14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

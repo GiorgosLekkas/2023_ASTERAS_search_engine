@@ -1,0 +1,19 @@
+@article{DBLP:journals/winet/ChousainovMKL20,
+  author    = {Iskanter{-}Alexandros Chousainov and
+               Ioannis D. Moscholios and
+               Alexandros Kaloxylos and
+               Michael D. Logothetis},
+  title     = {Performance evaluation of a {C-RAN} supporting a mixture of random
+               and quasi-random traffic},
+  journal   = {Wirel. Networks},
+  volume    = {26},
+  number    = {6},
+  pages     = {3953--3965},
+  year      = {2020},
+  url       = {https://doi.org/10.1007/s11276-020-02301-7},
+  doi       = {10.1007/s11276-020-02301-7},
+  timestamp = {Mon, 22 Jun 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/winet/ChousainovMKL20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

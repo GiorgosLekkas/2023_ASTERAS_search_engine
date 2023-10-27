@@ -1,0 +1,25 @@
+@inproceedings{DBLP:conf/camad/GalaniTDNYSKKC12,
+  author    = {Aristi Galani and
+               Kostas Tsagkaris and
+               Panagiotis Demestichas and
+               G{\'{e}}rard Nguengang and
+               Imen Grida Ben Yahia and
+               Gerasimos Stamatelatos and
+               Evangelos A. Kosmatos and
+               Alexandros Kaloxylos and
+               Laurent Ciavaglia},
+  title     = {Core functional and network empower mechanisms of an operator-driven,
+               framework for unifying autonomic network and service management},
+  booktitle = {17th {IEEE} International Workshop on Computer Aided Modeling and
+               Design of Communication Links and Networks, {CAMAD} 2012, Barcelona,
+               Spain, September 17-19, 2012},
+  pages     = {191--195},
+  publisher = {{IEEE}},
+  year      = {2012},
+  url       = {https://doi.org/10.1109/CAMAD.2012.6335330},
+  doi       = {10.1109/CAMAD.2012.6335330},
+  timestamp = {Sun, 02 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/camad/GalaniTDNYSKKC12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,19 @@
+@article{DBLP:journals/npa/KaloxylosMGP09,
+  author    = {Alexandros Kaloxylos and
+               Ioannis Modeas and
+               Fotos Georgiadis and
+               Nikos I. Passas},
+  title     = {Network Selection Algorithm for Heterogeneous Wireless Networks: from
+               Design to Implementation},
+  journal   = {Netw. Protoc. Algorithms},
+  volume    = {1},
+  number    = {2},
+  pages     = {27--47},
+  year      = {2009},
+  url       = {https://doi.org/10.5296/npa.v1i2.253},
+  doi       = {10.5296/npa.v1i2.253},
+  timestamp = {Sat, 25 Apr 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/npa/KaloxylosMGP09.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

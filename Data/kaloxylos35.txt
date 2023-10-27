@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/camad/KosmatosTKA12,
+  author    = {Evangelos A. Kosmatos and
+               Nikolaos Tzavalas and
+               Alexandros Kaloxylos and
+               Nancy Alonistioti},
+  title     = {Network and service co-management addressing QoE and optimised resource
+               allocation},
+  booktitle = {17th {IEEE} International Workshop on Computer Aided Modeling and
+               Design of Communication Links and Networks, {CAMAD} 2012, Barcelona,
+               Spain, September 17-19, 2012},
+  pages     = {186--190},
+  publisher = {{IEEE}},
+  year      = {2012},
+  url       = {https://doi.org/10.1109/CAMAD.2012.6335329},
+  doi       = {10.1109/CAMAD.2012.6335329},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/camad/KosmatosTKA12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

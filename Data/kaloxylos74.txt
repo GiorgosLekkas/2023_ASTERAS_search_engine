@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/iscc/KaloxylosHM98,
+  author    = {Alexandros Kaloxylos and
+               Stathes Hadjiefthymiades and
+               Lazaros F. Merakos},
+  title     = {Signalling channel handling in wireless {ATM} networks},
+  booktitle = {Proceedings of the Third {IEEE} Symposium on Computers and Communications
+               {(ISCC} 1998), June 30 - July 2, 1998, Athens, Greece},
+  pages     = {423--428},
+  publisher = {{IEEE} Computer Society},
+  year      = {1998},
+  url       = {https://doi.org/10.1109/ISCC.1998.702559},
+  doi       = {10.1109/ISCC.1998.702559},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/iscc/KaloxylosHM98.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

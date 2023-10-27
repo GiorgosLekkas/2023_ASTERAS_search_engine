@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/lcn/PaskalisKZ01a,
+  author    = {Sarantis Paskalis and
+               Alexandros Kaloxylos and
+               Evangelos Zervas},
+  title     = {An Efficient QoS Scheme for Mobile Hosts},
+  booktitle = {26th Annual {IEEE} Conference on Local Computer Networks {(LCN} 2001),
+               14-16 November 2001, Tampa, Florida, USA, Proceedings},
+  pages     = {630--637},
+  publisher = {{IEEE} Computer Society},
+  year      = {2001},
+  url       = {https://doi.org/10.1109/LCN.2001.990844},
+  doi       = {10.1109/LCN.2001.990844},
+  timestamp = {Wed, 16 Oct 2019 14:14:53 +0200},
+  biburl    = {https://dblp.org/rec/conf/lcn/PaskalisKZ01a.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

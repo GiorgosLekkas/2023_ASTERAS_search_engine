@@ -1,0 +1,23 @@
+@inproceedings{DBLP:conf/softcom/ChousainovMKL19,
+  author    = {Iskanter{-}Alexandros Chousainov and
+               Ioannis D. Moscholios and
+               Alexandros Kaloxylos and
+               Michael D. Logothetis},
+  editor    = {Dinko Begusic and
+               Nikola Rozic and
+               Josko Radic and
+               Matko Saric},
+  title     = {Performance Evaluation of a {C-RAN} Supporting Quasi-Random Traffic},
+  booktitle = {2019 International Conference on Software, Telecommunications and
+               Computer Networks, SoftCOM 2019, Split, Croatia, September 19-21,
+               2019},
+  pages     = {1--6},
+  publisher = {{IEEE}},
+  year      = {2019},
+  url       = {https://doi.org/10.23919/SOFTCOM.2019.8903712},
+  doi       = {10.23919/SOFTCOM.2019.8903712},
+  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/softcom/ChousainovMKL19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

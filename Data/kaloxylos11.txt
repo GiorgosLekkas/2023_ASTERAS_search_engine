@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/bmsb/0002MGMSZK18,
+  author    = {Sandra Roger and
+               David Mart{\'{\i}}n{-}Sacrist{\'{a}}n and
+               David Garcia{-}Roger and
+               Jose F. Monserrat and
+               Panagiotis Spapis and
+               Chan Zhou and
+               Alexandros Kaloxylos},
+  title     = {Forced Inter-Operator Handover for {V2X} Communication in Multi-Operator
+               Environments with Regional Splitting},
+  booktitle = {2018 {IEEE} International Symposium on Broadband Multimedia Systems
+               and Broadcasting, {BMSB} 2018, Valencia, Spain, June 6-8, 2018},
+  pages     = {1--5},
+  publisher = {{IEEE}},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/BMSB.2018.8436928},
+  doi       = {10.1109/BMSB.2018.8436928},
+  timestamp = {Tue, 29 Dec 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/bmsb/0002MGMSZK18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

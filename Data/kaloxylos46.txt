@@ -1,0 +1,23 @@
+@inproceedings{DBLP:conf/pimrc/KaloxylosRTGBMGN09,
+  author    = {Alexandros Kaloxylos and
+               Thomas Rosowski and
+               Kostas Tsagkaris and
+               Jens Gebert and
+               Eckard Bogenfeld and
+               Panagis Magdalinos and
+               Aristi Galani and
+               Klaus Nolte},
+  title     = {The {E3} architecture for future cognitive mobile networks},
+  booktitle = {Proceedings of the {IEEE} 20th International Symposium on Personal,
+               Indoor and Mobile Radio Communications, {PIMRC} 2009, 13-16 September
+               2009, Tokyo, Japan},
+  pages     = {1601--1605},
+  publisher = {{IEEE}},
+  year      = {2009},
+  url       = {https://doi.org/10.1109/PIMRC.2009.5450176},
+  doi       = {10.1109/PIMRC.2009.5450176},
+  timestamp = {Sun, 02 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/pimrc/KaloxylosRTGBMGN09.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
