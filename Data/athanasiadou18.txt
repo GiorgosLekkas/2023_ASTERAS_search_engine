@@ -1,0 +1,19 @@
+@article{DBLP:journals/wpc/ZarboutiTTAK12,
+  author    = {Dimitra Zarbouti and
+               D. C. Tsilimantos and
+               George V. Tsoulos and
+               Georgia E. Athanasiadou and
+               Dimitra I. Kaklamani},
+  title     = {Performance of {OFDMA} Multicell Systems with Opportunistic Beamforming},
+  journal   = {Wirel. Pers. Commun.},
+  volume    = {65},
+  number    = {4},
+  pages     = {843--861},
+  year      = {2012},
+  url       = {https://doi.org/10.1007/s11277-011-0315-6},
+  doi       = {10.1007/s11277-011-0315-6},
+  timestamp = {Thu, 20 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/wpc/ZarboutiTTAK12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

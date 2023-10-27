@@ -1,0 +1,14 @@
+@inproceedings{DBLP:conf/vtc/Athanasiadou09,
+  author    = {Georgia E. Athanasiadou},
+  title     = {Fixed Wireless Access Propagation Modelling and Measurements},
+  booktitle = {Proceedings of the 69th {IEEE} Vehicular Technology Conference, {VTC}
+               Spring 2009, 26-29 April 2009, Hilton Diagonal Mar, Barcelona, Spain},
+  publisher = {{IEEE}},
+  year      = {2009},
+  url       = {https://doi.org/10.1109/VETECS.2009.5073561},
+  doi       = {10.1109/VETECS.2009.5073561},
+  timestamp = {Sun, 21 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/vtc/Athanasiadou09.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

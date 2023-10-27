@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/iscas/TheochariTSMPBT04,
+  author    = {Evaggelia Theochari and
+               Konstantinos Tatas and
+               Dimitrios Soudris and
+               Kostas Masselos and
+               Konstantinos Potamianos and
+               Spyros Blionas and
+               Antonios Thanailakis},
+  title     = {A reusable {IP} {FFT} core for {DSP} applications},
+  booktitle = {Proceedings of the 2004 International Symposium on Circuits and Systems,
+               {ISCAS} 2004, Vancouver, BC, Canada, May 23-26, 2004},
+  pages     = {621--624},
+  publisher = {{IEEE}},
+  year      = {2004},
+  url       = {https://doi.org/10.1109/ISCAS.2004.1328823},
+  doi       = {10.1109/ISCAS.2004.1328823},
+  timestamp = {Wed, 16 Oct 2019 14:14:49 +0200},
+  biburl    = {https://dblp.org/rec/conf/iscas/TheochariTSMPBT04.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

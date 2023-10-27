@@ -1,0 +1,18 @@
+@article{DBLP:journals/wc/AthanasiadouBZT19,
+  author    = {Georgia E. Athanasiadou and
+               Michael C. Batistatos and
+               Dimitra A. Zarbouti and
+               George V. Tsoulos},
+  title     = {{LTE} Ground-to-Air Field Measurements in the Context of Flying Relays},
+  journal   = {{IEEE} Wirel. Commun.},
+  volume    = {26},
+  number    = {1},
+  pages     = {12--17},
+  year      = {2019},
+  url       = {https://doi.org/10.1109/MWC.2018.1800225},
+  doi       = {10.1109/MWC.2018.1800225},
+  timestamp = {Tue, 24 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/wc/AthanasiadouBZT19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

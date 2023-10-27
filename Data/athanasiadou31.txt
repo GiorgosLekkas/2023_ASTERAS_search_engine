@@ -1,0 +1,18 @@
+@article{DBLP:journals/jsac/AthanasiadouNM00,
+  author    = {Georgia E. Athanasiadou and
+               Andrew R. Nix and
+               Joe McGeehan},
+  title     = {A microcellular ray-tracing propagation model and evaluation of its
+               narrow-band and wide-band predictions},
+  journal   = {{IEEE} J. Sel. Areas Commun.},
+  volume    = {18},
+  number    = {3},
+  pages     = {322--335},
+  year      = {2000},
+  url       = {https://doi.org/10.1109/49.840192},
+  doi       = {10.1109/49.840192},
+  timestamp = {Thu, 02 Apr 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/jsac/AthanasiadouNM00.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

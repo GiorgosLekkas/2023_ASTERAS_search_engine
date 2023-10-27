@@ -1,0 +1,20 @@
+@article{DBLP:journals/mj/DrososDMSB04,
+  author    = {Christos Drosos and
+               Chrissavgi Dre and
+               Dimitris Metafas and
+               Dimitrios Soudris and
+               Spyros Blionas},
+  title     = {The low power analogue and digital baseband processing parts of a
+               novel multimode {DECT/GSM/DCS1800} terminal},
+  journal   = {Microelectron. J.},
+  volume    = {35},
+  number    = {7},
+  pages     = {609--620},
+  year      = {2004},
+  url       = {https://doi.org/10.1016/j.mejo.2004.02.002},
+  doi       = {10.1016/j.mejo.2004.02.002},
+  timestamp = {Sat, 22 Feb 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/mj/DrososDMSB04.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

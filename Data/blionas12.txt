@@ -1,0 +1,19 @@
+@article{DBLP:journals/jsa/MasselosPCB03,
+  author    = {Kostas Masselos and
+               Antti Pelkonen and
+               Miroslav Cup{\'{a}}k and
+               Spyros Blionas},
+  title     = {Realization of wireless multimedia communication systems on reconfigurable
+               platforms},
+  journal   = {J. Syst. Archit.},
+  volume    = {49},
+  number    = {4-6},
+  pages     = {155--175},
+  year      = {2003},
+  url       = {https://doi.org/10.1016/S1383-7621(03)00069-9},
+  doi       = {10.1016/S1383-7621(03)00069-9},
+  timestamp = {Tue, 19 May 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/jsa/MasselosPCB03.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

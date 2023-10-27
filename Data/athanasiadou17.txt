@@ -1,0 +1,18 @@
+@article{DBLP:journals/jnca/BatistatosTA12,
+  author    = {Michael C. Batistatos and
+               George V. Tsoulos and
+               Georgia E. Athanasiadou},
+  title     = {Mobile telemedicine for moving vehicle scenarios: Wireless technology
+               options and challenges},
+  journal   = {J. Netw. Comput. Appl.},
+  volume    = {35},
+  number    = {3},
+  pages     = {1140--1150},
+  year      = {2012},
+  url       = {https://doi.org/10.1016/j.jnca.2012.01.003},
+  doi       = {10.1016/j.jnca.2012.01.003},
+  timestamp = {Mon, 24 Feb 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/jnca/BatistatosTA12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/eucnc/AthanasiadouTZ15,
+  author    = {Georgia E. Athanasiadou and
+               George V. Tsoulos and
+               Dimitra Zarbouti},
+  title     = {Base-station positioning for heterogeneous systems with coverage,
+               capacity and cost criteria},
+  booktitle = {2015 European Conference on Networks and Communications, EuCNC 2015,
+               Paris, France, June 29 - July 2, 2015},
+  pages     = {91--96},
+  publisher = {{IEEE}},
+  year      = {2015},
+  url       = {https://doi.org/10.1109/EuCNC.2015.7194047},
+  doi       = {10.1109/EuCNC.2015.7194047},
+  timestamp = {Wed, 16 Oct 2019 14:14:52 +0200},
+  biburl    = {https://dblp.org/rec/conf/eucnc/AthanasiadouTZ15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

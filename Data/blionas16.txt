@@ -1,0 +1,27 @@
+@inproceedings{DBLP:conf/fpl/KoutroumpezisTSBMT02,
+  author    = {George Koutroumpezis and
+               Konstantinos Tatas and
+               Dimitrios Soudris and
+               Spyros Blionas and
+               Kostas Masselos and
+               Adonios Thanailakis},
+  editor    = {Manfred Glesner and
+               Peter Zipf and
+               Michel Renovell},
+  title     = {Architecture Design of a Reconfigurable Multiplier for Flexible Coarse-Grain
+               Implementations},
+  booktitle = {Field-Programmable Logic and Applications, Reconfigurable Computing
+               Is Going Mainstream, 12th International Conference, {FPL} 2002, Montpellier,
+               France, September 2-4, 2002, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {2438},
+  pages     = {1027--1036},
+  publisher = {Springer},
+  year      = {2002},
+  url       = {https://doi.org/10.1007/3-540-46117-5\_105},
+  doi       = {10.1007/3-540-46117-5\_105},
+  timestamp = {Tue, 14 May 2019 10:00:48 +0200},
+  biburl    = {https://dblp.org/rec/conf/fpl/KoutroumpezisTSBMT02.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

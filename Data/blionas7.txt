@@ -1,0 +1,18 @@
+@article{DBLP:journals/ieicet/DrososMBP04,
+  author    = {Christos Drosos and
+               Dimitris Metafas and
+               Spyros Blionas and
+               George D. Papadopoulos},
+  title     = {Rapid Prototyping of a Wireless {LAN} Implementation Using a UML-Based
+               System Design Methodology},
+  journal   = {{IEICE} Trans. Inf. Syst.},
+  volume    = {87-D},
+  number    = {8},
+  pages     = {2058--2069},
+  year      = {2004},
+  url       = {http://search.ieice.org/bin/summary.php?id=e87-d\_8\_2058},
+  timestamp = {Sat, 11 Apr 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/ieicet/DrososMBP04.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

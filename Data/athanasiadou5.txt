@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/mocast/KoutsiDSZAT19,
+  author    = {Elisavet Koutsi and
+               Sotiris Deligiannis and
+               Ioannis Sarantopoulos and
+               Dimitra Zarbouti and
+               Georgia E. Athanasiadou and
+               George V. Tsoulos},
+  title     = {Radiation measurements in office environment with Wi-Fi, 3G and 4G
+               users},
+  booktitle = {8th International Conference on Modern Circuits and Systems Technologies,
+               {MOCAST} 2019, Thessaloniki, Greece, May 13-15, 2019},
+  pages     = {1--4},
+  publisher = {{IEEE}},
+  year      = {2019},
+  url       = {https://doi.org/10.1109/MOCAST.2019.8741720},
+  doi       = {10.1109/MOCAST.2019.8741720},
+  timestamp = {Wed, 16 Oct 2019 14:14:49 +0200},
+  biburl    = {https://dblp.org/rec/conf/mocast/KoutsiDSZAT19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

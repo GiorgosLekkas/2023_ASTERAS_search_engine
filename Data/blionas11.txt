@@ -1,0 +1,27 @@
+@inproceedings{DBLP:conf/patmos/MasselosBMFSN04,
+  author    = {Kostas Masselos and
+               Spyros Blionas and
+               Jean{-}Yves Mignolet and
+               A. Foster and
+               Dimitrios Soudris and
+               Spiridon Nikolaidis},
+  editor    = {Enrico Macii and
+               Odysseas G. Koufopavlou and
+               Vassilis Paliouras},
+  title     = {Hardware Building Blocks of a Mixed Granularity Reconfigurable System-on-Chip
+               Platform},
+  booktitle = {Integrated Circuit and System Design, Power and Timing Modeling, Optimization
+               and Simulation; 14th International Workshop, {PATMOS} 2004, Santorini,
+               Greece, September 15-17, 2004, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {3254},
+  pages     = {613--622},
+  publisher = {Springer},
+  year      = {2004},
+  url       = {https://doi.org/10.1007/978-3-540-30205-6\_63},
+  doi       = {10.1007/978-3-540-30205-6\_63},
+  timestamp = {Tue, 04 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/patmos/MasselosBMFSN04.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

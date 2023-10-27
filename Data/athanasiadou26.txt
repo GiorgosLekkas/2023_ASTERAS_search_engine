@@ -1,0 +1,19 @@
+@article{DBLP:journals/jcm/GkonisTAK08,
+  author    = {Panagiotis K. Gkonis and
+               George V. Tsoulos and
+               Georgia E. Athanasiadou and
+               Dimitra I. Kaklamani},
+  title     = {An Adaptive Beam-Shaping Strategy for {WCDMA} Multicellular Networks
+               with Non-Uniform Traffic Requirements},
+  journal   = {J. Commun.},
+  volume    = {3},
+  number    = {4},
+  pages     = {16--25},
+  year      = {2008},
+  url       = {https://doi.org/10.4304/jcm.3.4.16-25},
+  doi       = {10.4304/jcm.3.4.16-25},
+  timestamp = {Tue, 15 Sep 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/jcm/GkonisTAK08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

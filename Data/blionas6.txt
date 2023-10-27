@@ -1,0 +1,25 @@
+@inproceedings{DBLP:conf/patmos/BisdounisBMNZ05,
+  author    = {Labros Bisdounis and
+               Spyros Blionas and
+               Enrico Macii and
+               Spiridon Nikolaidis and
+               Roberto Zafalon},
+  editor    = {Vassilis Paliouras and
+               Johan Vounckx and
+               Diederik Verkest},
+  title     = {Energy-Aware System-on-Chip for 5 GHz Wireless LANs},
+  booktitle = {Integrated Circuit and System Design, Power and Timing Modeling, Optimization
+               and Simulation, 15th International Workshop, {PATMOS} 2005, Leuven,
+               Belgium, September 21-23, 2005, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {3728},
+  pages     = {166--176},
+  publisher = {Springer},
+  year      = {2005},
+  url       = {https://doi.org/10.1007/11556930\_18},
+  doi       = {10.1007/11556930\_18},
+  timestamp = {Tue, 04 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/patmos/BisdounisBMNZ05.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

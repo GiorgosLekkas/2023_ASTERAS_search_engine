@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/pimrc/Athanasiadou07,
+  author    = {Georgia E. Athanasiadou},
+  title     = {Incorporating the Fresnel Zone Theory in Ray Tracing for Propagation
+               Modelling of Fixed Wireless Access Channels},
+  booktitle = {Proceedings of the {IEEE} 18th International Symposium on Personal,
+               Indoor and Mobile Radio Communications, {PIMRC} 2007, 3-7 September
+               2007, Athens, Greece},
+  pages     = {1--5},
+  publisher = {{IEEE}},
+  year      = {2007},
+  url       = {https://doi.org/10.1109/PIMRC.2007.4394753},
+  doi       = {10.1109/PIMRC.2007.4394753},
+  timestamp = {Wed, 16 Oct 2019 14:14:50 +0200},
+  biburl    = {https://dblp.org/rec/conf/pimrc/Athanasiadou07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

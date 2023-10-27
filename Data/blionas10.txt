@@ -1,0 +1,25 @@
+@inproceedings{DBLP:conf/patmos/DrososBMBT04,
+  author    = {Christos Drosos and
+               Labros Bisdounis and
+               Dimitris Metafas and
+               Spyros Blionas and
+               Anna Tatsaki},
+  editor    = {Enrico Macii and
+               Odysseas G. Koufopavlou and
+               Vassilis Paliouras},
+  title     = {A Multi-level Validation Methodology for Wireless Network Applications},
+  booktitle = {Integrated Circuit and System Design, Power and Timing Modeling, Optimization
+               and Simulation; 14th International Workshop, {PATMOS} 2004, Santorini,
+               Greece, September 15-17, 2004, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {3254},
+  pages     = {332--341},
+  publisher = {Springer},
+  year      = {2004},
+  url       = {https://doi.org/10.1007/978-3-540-30205-6\_35},
+  doi       = {10.1007/978-3-540-30205-6\_35},
+  timestamp = {Tue, 14 May 2019 10:00:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/patmos/DrososBMBT04.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

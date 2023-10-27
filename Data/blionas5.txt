@@ -1,0 +1,18 @@
+@article{DBLP:journals/jec/NikolaidisKLBB05,
+  author    = {Spiridon Nikolaidis and
+               Nikolaos Kavvadias and
+               Theodore Laopoulos and
+               Labros Bisdounis and
+               Spyros Blionas},
+  title     = {Instruction level energy modeling for pipelined processors},
+  journal   = {J. Embed. Comput.},
+  volume    = {1},
+  number    = {3},
+  pages     = {317--324},
+  year      = {2005},
+  url       = {http://content.iospress.com/articles/journal-of-embedded-computing/jec00035},
+  timestamp = {Tue, 04 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/jec/NikolaidisKLBB05.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

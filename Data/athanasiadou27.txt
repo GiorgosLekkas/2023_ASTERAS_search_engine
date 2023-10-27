@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/pimrc/ZarboutiSTAK08,
+  author    = {Dimitra Zarbouti and
+               Ioannis Stiakogiannakis and
+               George V. Tsoulos and
+               Georgia E. Athanasiadou and
+               Dimitra I. Kaklamani},
+  title     = {Performance evaluation of {OFDMA} techniques in multicellular networks},
+  booktitle = {Proceedings of the {IEEE} 19th International Symposium on Personal,
+               Indoor and Mobile Radio Communications, {PIMRC} 2008, 15-18 September
+               2008, Cannes, French Riviera, France},
+  pages     = {1--5},
+  publisher = {{IEEE}},
+  year      = {2008},
+  url       = {https://doi.org/10.1109/PIMRC.2008.4699697},
+  doi       = {10.1109/PIMRC.2008.4699697},
+  timestamp = {Mon, 05 Jun 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/pimrc/ZarboutiSTAK08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

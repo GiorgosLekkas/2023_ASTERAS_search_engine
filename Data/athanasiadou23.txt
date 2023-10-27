@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/pimrc/ZarboutiTTAK10,
+  author    = {Dimitra Zarbouti and
+               D. C. Tsilimantos and
+               George V. Tsoulos and
+               Georgia E. Athanasiadou and
+               Dimitra I. Kaklamani},
+  title     = {{OFDMA} multicell systems with opportunistic beamforming},
+  booktitle = {Proceedings of the {IEEE} 21st International Symposium on Personal,
+               Indoor and Mobile Radio Communications, {PIMRC} 2010, 26-29 September
+               2010, Istanbul, Turkey},
+  pages     = {1407--1412},
+  publisher = {{IEEE}},
+  year      = {2010},
+  url       = {https://doi.org/10.1109/PIMRC.2010.5671996},
+  doi       = {10.1109/PIMRC.2010.5671996},
+  timestamp = {Mon, 05 Jun 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/pimrc/ZarboutiTTAK10.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

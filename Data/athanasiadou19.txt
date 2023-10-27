@@ -1,0 +1,20 @@
+@article{DBLP:journals/wpc/TsilimantosZTAK11,
+  author    = {D. C. Tsilimantos and
+               Dimitra Zarbouti and
+               George V. Tsoulos and
+               Georgia E. Athanasiadou and
+               Dimitra I. Kaklamani},
+  title     = {Fairness and Throughput Trade-Off Analysis for {UMTS} {WCDMA} Network
+               Planning},
+  journal   = {Wirel. Pers. Commun.},
+  volume    = {56},
+  number    = {4},
+  pages     = {693--714},
+  year      = {2011},
+  url       = {https://doi.org/10.1007/s11277-009-9840-y},
+  doi       = {10.1007/s11277-009-9840-y},
+  timestamp = {Thu, 20 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/wpc/TsilimantosZTAK11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,20 @@
+@article{DBLP:journals/wpc/GkonisATAK11,
+  author    = {Panagiotis K. Gkonis and
+               Theodoros E. Athanaileas and
+               George V. Tsoulos and
+               Georgia E. Athanasiadou and
+               Dimitra I. Kaklamani},
+  title     = {Adaptive Beam-Centric Admission Control for {WCDMA} Multicell/Multiservice
+               Scenarios with Non-Uniform Traffic},
+  journal   = {Wirel. Pers. Commun.},
+  volume    = {58},
+  number    = {2},
+  pages     = {369--389},
+  year      = {2011},
+  url       = {https://doi.org/10.1007/s11277-009-9896-8},
+  doi       = {10.1007/s11277-009-9896-8},
+  timestamp = {Thu, 20 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/wpc/GkonisATAK11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

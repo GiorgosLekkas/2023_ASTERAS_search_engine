@@ -1,0 +1,24 @@
+@inproceedings{DBLP:conf/patmos/NikolaidisKLBB03,
+  author    = {Spiridon Nikolaidis and
+               Nikolaos Kavvadias and
+               Theodore Laopoulos and
+               Labros Bisdounis and
+               Spyros Blionas},
+  editor    = {Jorge Juan{-}Chico and
+               Enrico Macii},
+  title     = {Instruction Level Energy Modeling for Pipelined Processors},
+  booktitle = {Integrated Circuit and System Design, Power and Timing Modeling, Optimization
+               and Simulation, 13th International Workshop, {PATMOS} 2003, Torino,
+               Italy, September 10-12, 2003, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {2799},
+  pages     = {279--288},
+  publisher = {Springer},
+  year      = {2003},
+  url       = {https://doi.org/10.1007/978-3-540-39762-5\_34},
+  doi       = {10.1007/978-3-540-39762-5\_34},
+  timestamp = {Tue, 04 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/patmos/NikolaidisKLBB03.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

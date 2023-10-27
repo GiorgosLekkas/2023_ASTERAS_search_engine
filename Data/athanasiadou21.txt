@@ -1,0 +1,19 @@
+@article{DBLP:journals/pc/AthanaileasATK10,
+  author    = {Theodoros E. Athanaileas and
+               Georgia E. Athanasiadou and
+               George V. Tsoulos and
+               Dimitra I. Kaklamani},
+  title     = {Parallel radio-wave propagation modeling with image-based ray tracing
+               techniques},
+  journal   = {Parallel Comput.},
+  volume    = {36},
+  number    = {12},
+  pages     = {679--695},
+  year      = {2010},
+  url       = {https://doi.org/10.1016/j.parco.2010.08.002},
+  doi       = {10.1016/j.parco.2010.08.002},
+  timestamp = {Sat, 22 Feb 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/pc/AthanaileasATK10.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

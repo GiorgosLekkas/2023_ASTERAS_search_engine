@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/icecsys/DrososDMSB01,
+  author    = {Christos Drosos and
+               Chrissavgi Dre and
+               Dimitris Metafas and
+               Dimitrios Soudris and
+               Spyros Blionas},
+  title     = {The low power baseband processing parts of a novel dual mode {DECT/GSM}
+               terminal},
+  booktitle = {Proceedings of the 2001 8th {IEEE} International Conference on Electronics,
+               Circuits and Systems, {ICECS} 2001, Malta, September 2-5, 2001},
+  pages     = {35--38},
+  publisher = {{IEEE}},
+  year      = {2001},
+  url       = {https://doi.org/10.1109/ICECS.2001.957657},
+  doi       = {10.1109/ICECS.2001.957657},
+  timestamp = {Mon, 09 Aug 2021 14:54:04 +0200},
+  biburl    = {https://dblp.org/rec/conf/icecsys/DrososDMSB01.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

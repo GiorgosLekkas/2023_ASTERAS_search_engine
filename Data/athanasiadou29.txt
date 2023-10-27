@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/pimrc/SellarsAZGH03,
+  author    = {Malcolm P. Sellars and
+               Georgia E. Athanasiadou and
+               Bartosz Zi{\'{o}}lko and
+               Stephen D. Greaves and
+               Andy Hopper},
+  title     = {Simulation of broadband {FWA} networks in high-rise cities with linear
+               antenna polarisation},
+  booktitle = {Proceedings of the {IEEE} 14th International Symposium on Personal,
+               Indoor and Mobile Radio Communications, {PIMRC} 2003, 7-10 September
+               2003, Beijing, China},
+  pages     = {371--375},
+  publisher = {{IEEE}},
+  year      = {2003},
+  url       = {https://doi.org/10.1109/PIMRC.2003.1264296},
+  doi       = {10.1109/PIMRC.2003.1264296},
+  timestamp = {Wed, 16 Oct 2019 14:14:50 +0200},
+  biburl    = {https://dblp.org/rec/conf/pimrc/SellarsAZGH03.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

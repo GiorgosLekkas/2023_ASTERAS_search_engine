@@ -1,0 +1,17 @@
+@article{DBLP:journals/tvt/AthanasiadouN00,
+  author    = {Georgia E. Athanasiadou and
+               Andrew R. Nix},
+  title     = {Investigation into the sensitivity of the power predictions of a microcellular
+               ray tracing propagation model},
+  journal   = {{IEEE} Trans. Veh. Technol.},
+  volume    = {49},
+  number    = {4},
+  pages     = {1140--1151},
+  year      = {2000},
+  url       = {https://doi.org/10.1109/25.875221},
+  doi       = {10.1109/25.875221},
+  timestamp = {Thu, 25 Jun 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/tvt/AthanasiadouN00.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

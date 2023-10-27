@@ -1,0 +1,20 @@
+@article{DBLP:journals/comcom/ZarboutiSTAK09,
+  author    = {Dimitra Zarbouti and
+               Ioannis Stiakogiannakis and
+               George V. Tsoulos and
+               Georgia E. Athanasiadou and
+               Dimitra I. Kaklamani},
+  title     = {{OFDMA} techniques in multicellular networks with total frequency
+               reuse},
+  journal   = {Comput. Commun.},
+  volume    = {32},
+  number    = {3},
+  pages     = {522--530},
+  year      = {2009},
+  url       = {https://doi.org/10.1016/j.comcom.2008.09.011},
+  doi       = {10.1016/j.comcom.2008.09.011},
+  timestamp = {Thu, 20 Feb 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/comcom/ZarboutiSTAK09.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

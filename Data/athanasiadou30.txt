@@ -1,0 +1,17 @@
+@article{DBLP:journals/tvt/TsoulosA02,
+  author    = {George V. Tsoulos and
+               Georgia E. Athanasiadou},
+  title     = {On the application of adaptive antennas to microcellular environments:
+               radio channel characteristics and system performance},
+  journal   = {{IEEE} Trans. Veh. Technol.},
+  volume    = {51},
+  number    = {1},
+  pages     = {1--16},
+  year      = {2002},
+  url       = {https://doi.org/10.1109/25.992063},
+  doi       = {10.1109/25.992063},
+  timestamp = {Thu, 25 Jun 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/tvt/TsoulosA02.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

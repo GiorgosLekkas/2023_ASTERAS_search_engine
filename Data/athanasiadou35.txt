@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/pimrc/MolinaNA00,
+  author    = {Araceli Molina and
+               Andrew R. Nix and
+               Georgia E. Athanasiadou},
+  title     = {The effects of control node density in cellular network planning using
+               the combination algorithm for total optimisation {(CAT)}},
+  booktitle = {The 11th {IEEE} International Symposium on Personal, Indoor and Mobile
+               Radio Communications, {PIMRC} 2000, London, UK, September 18-21, 2000},
+  pages     = {856--860},
+  publisher = {{IEEE}},
+  year      = {2000},
+  url       = {https://doi.org/10.1109/PIMRC.2000.881544},
+  doi       = {10.1109/PIMRC.2000.881544},
+  timestamp = {Wed, 16 Oct 2019 14:14:50 +0200},
+  biburl    = {https://dblp.org/rec/conf/pimrc/MolinaNA00.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

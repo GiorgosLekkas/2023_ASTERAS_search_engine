@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/pimrc/WilliamsonAN97,
+  author    = {M. R. Williamson and
+               Georgia E. Athanasiadou and
+               Andrew R. Nix},
+  title     = {Investigating the effects of antenna directivity on wireless indoor
+               communication at 60 GHz},
+  booktitle = {The 8th {IEEE} International Symposium on Personal, Indoor and Mobile
+               Radio Communications, {PIMRC} 1997, Helsinki, Finland, September 1-4,
+               1997},
+  pages     = {635--639},
+  publisher = {{IEEE}},
+  year      = {1997},
+  url       = {https://doi.org/10.1109/PIMRC.1997.631109},
+  doi       = {10.1109/PIMRC.1997.631109},
+  timestamp = {Fri, 22 May 2020 16:30:39 +0200},
+  biburl    = {https://dblp.org/rec/conf/pimrc/WilliamsonAN97.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

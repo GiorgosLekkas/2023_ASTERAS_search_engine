@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/globecom/XilourisBATPZ18,
+  author    = {George Xilouris and
+               Michael C. Batistatos and
+               Georgia E. Athanasiadou and
+               Georgios Tsoulos and
+               Haris Pervaiz and
+               Charilaos C. Zarakovitis},
+  title     = {UAV-Assisted 5G Network Architecture with Slicing and Virtualization},
+  booktitle = {{IEEE} Globecom Workshops, {GC} Wkshps 2018, Abu Dhabi, United Arab
+               Emirates, December 9-13, 2018},
+  pages     = {1--7},
+  publisher = {{IEEE}},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/GLOCOMW.2018.8644408},
+  doi       = {10.1109/GLOCOMW.2018.8644408},
+  timestamp = {Fri, 27 Dec 2019 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/globecom/XilourisBATPZ18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

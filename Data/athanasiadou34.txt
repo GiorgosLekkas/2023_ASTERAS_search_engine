@@ -1,0 +1,18 @@
+@article{DBLP:journals/tvt/TsoulosAP00,
+  author    = {George V. Tsoulos and
+               Georgia E. Athanasiadou and
+               Robert J. Piechocki},
+  title     = {Low-complexity smart antenna methods for third-generation {W-CDMA}
+               systems},
+  journal   = {{IEEE} Trans. Veh. Technol.},
+  volume    = {49},
+  number    = {6},
+  pages     = {2382--2396},
+  year      = {2000},
+  url       = {https://doi.org/10.1109/25.901907},
+  doi       = {10.1109/25.901907},
+  timestamp = {Thu, 25 Jun 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/tvt/TsoulosAP00.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

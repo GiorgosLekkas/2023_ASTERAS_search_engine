@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/pci/ZarboutiKTA10,
+  author    = {Dimitra Zarbouti and
+               Dimitra I. Kaklamani and
+               George V. Tsoulos and
+               Georgia E. Athanasiadou},
+  title     = {Opportunistic Beamforming in {OFDMA} Systems},
+  booktitle = {14th Panhellenic Conference on Informatics, {PCI} 2010, Tripoli, Greece,
+               September 10-12, 2010},
+  pages     = {93--98},
+  publisher = {{IEEE} Computer Society},
+  year      = {2010},
+  url       = {https://doi.org/10.1109/PCI.2010.24},
+  doi       = {10.1109/PCI.2010.24},
+  timestamp = {Wed, 16 Oct 2019 14:14:48 +0200},
+  biburl    = {https://dblp.org/rec/conf/pci/ZarboutiKTA10.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

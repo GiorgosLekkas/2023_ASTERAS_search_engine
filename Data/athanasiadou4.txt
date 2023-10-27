@@ -1,0 +1,19 @@
+@article{DBLP:journals/wpc/AthanasiadouTZV19,
+  author    = {Georgia E. Athanasiadou and
+               George V. Tsoulos and
+               Dimitra A. Zarbouti and
+               Ioannis K. Valavanis},
+  title     = {Optimizing Radio Network Planning Evolution Towards Microcellular
+               Systems},
+  journal   = {Wirel. Pers. Commun.},
+  volume    = {106},
+  number    = {2},
+  pages     = {521--534},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/s11277-019-06177-5},
+  doi       = {10.1007/s11277-019-06177-5},
+  timestamp = {Thu, 20 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/wpc/AthanasiadouTZV19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

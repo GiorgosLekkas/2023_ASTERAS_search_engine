@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/onlinegreencomm/ValavanisZAT15,
+  author    = {Ioannis K. Valavanis and
+               Dimitra Zarbouti and
+               Georgia E. Athanasiadou and
+               George V. Tsoulos},
+  title     = {Basestation antenna pattern reconfiguration for minimum transmit power
+               network planning},
+  booktitle = {2015 {IEEE} Online Conference on Green Communications, OnlineGreenComm
+               2015, Piscataway, NJ, USA, November 10-12, 2015},
+  pages     = {66--71},
+  publisher = {{IEEE}},
+  year      = {2015},
+  url       = {https://doi.org/10.1109/OnlineGreenCom.2015.7387381},
+  doi       = {10.1109/OnlineGreenCom.2015.7387381},
+  timestamp = {Wed, 16 Oct 2019 14:14:57 +0200},
+  biburl    = {https://dblp.org/rec/conf/onlinegreencomm/ValavanisZAT15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

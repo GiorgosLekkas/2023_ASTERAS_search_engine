@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/rsp/MetafasKB96,
+  author    = {Dimitris Metafas and
+               H. C. Karathanasis and
+               Spyros Blionas},
+  title     = {Industrial approach in design methodologies for mobile communications
+               systems},
+  booktitle = {Seventh {IEEE} International Workshop on Rapid System Prototyping
+               {(RSP} '96), Thessaloniki, Greece, June 19-21, 1996},
+  pages     = {122--126},
+  publisher = {{IEEE} Computer Society},
+  year      = {1996},
+  url       = {https://doi.org/10.1109/IWRSP.1996.506738},
+  doi       = {10.1109/IWRSP.1996.506738},
+  timestamp = {Wed, 16 Oct 2019 14:14:50 +0200},
+  biburl    = {https://dblp.org/rec/conf/rsp/MetafasKB96.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

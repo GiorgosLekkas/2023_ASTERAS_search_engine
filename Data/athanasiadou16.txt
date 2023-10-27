@@ -1,0 +1,17 @@
+@article{DBLP:journals/wpc/TsoulosA14,
+  author    = {George V. Tsoulos and
+               Georgia E. Athanasiadou},
+  title     = {Analysis of {CDMA} {MIMO} Beamforming Multicell Deployment Scenarios
+               using Effective Radiation Patterns},
+  journal   = {Wirel. Pers. Commun.},
+  volume    = {75},
+  number    = {4},
+  pages     = {2269--2280},
+  year      = {2014},
+  url       = {https://doi.org/10.1007/s11277-013-1466-4},
+  doi       = {10.1007/s11277-013-1466-4},
+  timestamp = {Thu, 20 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/wpc/TsoulosA14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

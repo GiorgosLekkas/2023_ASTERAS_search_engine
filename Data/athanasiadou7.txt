@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/mocast/BatistatosTZAG18,
+  author    = {Michael C. Batistatos and
+               George V. Tsoulos and
+               Dimitra Zarbouti and
+               Georgia E. Athanasiadou and
+               Sotirios K. Goudos},
+  title     = {{LTE} measurements for flying relays},
+  booktitle = {7th International Conference on Modern Circuits and Systems Technologies,
+               {MOCAST} 2018, Thessaloniki, Greece, May 7-9, 2018},
+  pages     = {1--4},
+  publisher = {{IEEE}},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/MOCAST.2018.8376626},
+  doi       = {10.1109/MOCAST.2018.8376626},
+  timestamp = {Wed, 16 Oct 2019 14:14:49 +0200},
+  biburl    = {https://dblp.org/rec/conf/mocast/BatistatosTZAG18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

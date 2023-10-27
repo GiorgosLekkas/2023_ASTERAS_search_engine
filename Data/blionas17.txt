@@ -1,0 +1,31 @@
+@inproceedings{DBLP:conf/fpl/BlionasMDDIPPTTVM02,
+  author    = {Spyros Blionas and
+               Kostas Masselos and
+               Chrissavgi Dre and
+               Christos Drosos and
+               F. Z. Ieromnimon and
+               T. Pagonis and
+               Aristodemos Pneymatikakis and
+               Anna Tatsaki and
+               T. Trimis and
+               A. Vontzalidis and
+               Dimitris Metafas},
+  editor    = {Manfred Glesner and
+               Peter Zipf and
+               Michel Renovell},
+  title     = {A {HIPERLAN/2} - {IEEE} 802.11a Reconfigurable System-on-Chip},
+  booktitle = {Field-Programmable Logic and Applications, Reconfigurable Computing
+               Is Going Mainstream, 12th International Conference, {FPL} 2002, Montpellier,
+               France, September 2-4, 2002, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {2438},
+  pages     = {1080--1083},
+  publisher = {Springer},
+  year      = {2002},
+  url       = {https://doi.org/10.1007/3-540-46117-5\_112},
+  doi       = {10.1007/3-540-46117-5\_112},
+  timestamp = {Thu, 25 Feb 2021 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/fpl/BlionasMDDIPPTTVM02.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

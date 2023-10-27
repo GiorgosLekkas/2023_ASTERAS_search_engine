@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/iscas/SotiropoulouVGNVDB12,
+  author    = {Calliope{-}Louisa Sotiropoulou and
+               Liberis Voudouris and
+               Christos Gentsos and
+               Spiridon Nikolaidis and
+               Nikolaos Vassiliadis and
+               Athanasios M. Demiris and
+               Spyros Blionas},
+  title     = {FPGA-based machine vision implementation for Lab-on-Chip flow detection},
+  booktitle = {2012 {IEEE} International Symposium on Circuits and Systems, {ISCAS}
+               2012, Seoul, Korea (South), May 20-23, 2012},
+  pages     = {2047--2050},
+  publisher = {{IEEE}},
+  year      = {2012},
+  url       = {https://doi.org/10.1109/ISCAS.2012.6271683},
+  doi       = {10.1109/ISCAS.2012.6271683},
+  timestamp = {Tue, 04 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/iscas/SotiropoulouVGNVDB12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

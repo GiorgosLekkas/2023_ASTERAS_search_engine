@@ -1,0 +1,15 @@
+@article{DBLP:journals/ejasp/KornarosB08,
+  author    = {George Kornaros and
+               Spyros Blionas},
+  title     = {Microarchitecture of a MultiCore SoC for Data Analysis of a Lab-on-Chip
+               Microarray},
+  journal   = {{EURASIP} J. Adv. Signal Process.},
+  volume    = {2008},
+  year      = {2008},
+  url       = {https://doi.org/10.1155/2008/520641},
+  doi       = {10.1155/2008/520641},
+  timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/ejasp/KornarosB08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/mocast/VergosSATG21,
+  author    = {George S. Vergos and
+               Sotirios P. Sotiroudis and
+               Georgia E. Athanasiadou and
+               George V. Tsoulos and
+               Sotirios K. Goudos},
+  title     = {Comparing Machine Learning Methods for Air-to-Ground Path Loss Prediction},
+  booktitle = {10th International Conference on Modern Circuits and Systems Technologies,
+               {MOCAST} 2021, Thessaloniki, Greece, July 5-7, 2021},
+  pages     = {1--4},
+  publisher = {{IEEE}},
+  year      = {2021},
+  url       = {https://doi.org/10.1109/MOCAST52088.2021.9493374},
+  doi       = {10.1109/MOCAST52088.2021.9493374},
+  timestamp = {Fri, 05 Nov 2021 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/mocast/VergosSATG21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

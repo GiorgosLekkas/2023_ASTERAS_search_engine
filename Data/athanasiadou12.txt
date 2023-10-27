@@ -1,0 +1,18 @@
+@article{DBLP:journals/ict-express/ZarboutiTA15,
+  author    = {Dimitra Zarbouti and
+               George V. Tsoulos and
+               Georgia E. Athanasiadou},
+  title     = {Effects of antenna array characteristics on in-band full-duplex relays
+               for broadband cellular communications},
+  journal   = {{ICT} Express},
+  volume    = {1},
+  number    = {3},
+  pages     = {121--126},
+  year      = {2015},
+  url       = {https://doi.org/10.1016/j.icte.2015.11.002},
+  doi       = {10.1016/j.icte.2015.11.002},
+  timestamp = {Thu, 07 Jan 2021 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/ict-express/ZarboutiTA15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

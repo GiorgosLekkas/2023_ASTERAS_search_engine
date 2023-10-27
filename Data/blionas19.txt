@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/iscas/DrososDBS01,
+  author    = {Christos Drosos and
+               Chrissavgi Dre and
+               Spyros Blionas and
+               Dimitrios Soudris},
+  title     = {On the implementation of a baseband processor for a portable dual
+               mode {DECT/GSM} terminal},
+  booktitle = {Proceedings of the 2001 International Symposium on Circuits and Systems,
+               {ISCAS} 2001, Sydney, Australia, May 6-9, 2001},
+  pages     = {334--337},
+  publisher = {{IEEE}},
+  year      = {2001},
+  url       = {https://doi.org/10.1109/ISCAS.2001.922240},
+  doi       = {10.1109/ISCAS.2001.922240},
+  timestamp = {Wed, 16 Oct 2019 14:14:49 +0200},
+  biburl    = {https://dblp.org/rec/conf/iscas/DrososDBS01.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

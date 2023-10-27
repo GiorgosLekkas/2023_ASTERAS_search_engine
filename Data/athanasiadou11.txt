@@ -1,0 +1,19 @@
+@article{DBLP:journals/wpc/KontaxisTAK16,
+  author    = {Dimitris E. Kontaxis and
+               George V. Tsoulos and
+               Georgia E. Athanasiadou and
+               Serafim Karaboyas},
+  title     = {Optimality of Transmit Beamforming in Spatially Correlated {MIMO}
+               Rician Fading Channels},
+  journal   = {Wirel. Pers. Commun.},
+  volume    = {88},
+  number    = {2},
+  pages     = {371--384},
+  year      = {2016},
+  url       = {https://doi.org/10.1007/s11277-015-3125-4},
+  doi       = {10.1007/s11277-015-3125-4},
+  timestamp = {Thu, 20 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/wpc/KontaxisTAK16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

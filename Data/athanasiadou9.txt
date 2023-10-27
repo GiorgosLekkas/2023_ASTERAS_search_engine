@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/mocast/SolidakisTBSTZA17,
+  author    = {George N. Solidakis and
+               Fanourios M. Tsokas and
+               Michael C. Batistatos and
+               Nikos C. Sagias and
+               George V. Tsoulos and
+               Dimitra Zarbouti and
+               Georgia E. Athanasiadou},
+  title     = {An Arduino-based subsystem for controlling UAVs through {GSM}},
+  booktitle = {6th International Conference on Modern Circuits and Systems Technologies,
+               {MOCAST} 2017, Thessaloniki, Greece, May 4-6, 2017},
+  pages     = {1--4},
+  publisher = {{IEEE}},
+  year      = {2017},
+  url       = {https://doi.org/10.1109/MOCAST.2017.7937656},
+  doi       = {10.1109/MOCAST.2017.7937656},
+  timestamp = {Wed, 16 Oct 2019 14:14:49 +0200},
+  biburl    = {https://dblp.org/rec/conf/mocast/SolidakisTBSTZA17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
