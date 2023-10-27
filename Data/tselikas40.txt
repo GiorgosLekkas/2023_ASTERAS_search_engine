@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/mobilware/AthanaileasTTK08,
+  author    = {Theodoros E. Athanaileas and
+               Nikolaos D. Tselikas and
+               George V. Tsoulos and
+               Dimitra I. Kaklamani},
+  editor    = {Jiang (Linda) Xie and
+               Tuna Tugcu},
+  title     = {An agent-based framework for integrating mobility into grid services},
+  booktitle = {Proceedings of the 1st International Conference on MOBILe Wireless
+               MiddleWARE, Operating Systems, and Applications, {MOBILWARE} 2008,
+               Innsbruck, Austria, February 13 - 15, 2008},
+  series    = {{ACM} International Conference Proceeding Series},
+  volume    = {278},
+  pages     = {31},
+  year      = {2008},
+  url       = {https://doi.org/10.4108/ICST.MOBILWARE2008.2800},
+  doi       = {10.4108/ICST.MOBILWARE2008.2800},
+  timestamp = {Wed, 28 Nov 2018 12:57:16 +0100},
+  biburl    = {https://dblp.org/rec/conf/mobilware/AthanaileasTTK08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

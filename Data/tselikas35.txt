@@ -1,0 +1,18 @@
+@article{DBLP:journals/icl/PlerosTT08,
+  author    = {Nikos Pleros and
+               Kostas Tsagkaris and
+               Nikolaos D. Tselikas},
+  title     = {A moving extended cell concept for seamless communication in 60 GHz
+               radio-over-fiber networks},
+  journal   = {{IEEE} Commun. Lett.},
+  volume    = {12},
+  number    = {11},
+  pages     = {852--854},
+  year      = {2008},
+  url       = {https://doi.org/10.1109/LCOMM.2008.080843},
+  doi       = {10.1109/LCOMM.2008.080843},
+  timestamp = {Sun, 02 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/icl/PlerosTT08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

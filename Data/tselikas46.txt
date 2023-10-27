@@ -1,0 +1,23 @@
+@inproceedings{DBLP:conf/globecom/BartolomeoBMSKKPTV06,
+  author    = {Giovanni Bartolomeo and
+               Nicola Blefari{-}Melazzi and
+               F. Martire and
+               Stefano Salsano and
+               Sofia Kapellaki and
+               Eleftherios Koutsoloukas and
+               George N. Prezerakos and
+               Nikolaos D. Tselikas and
+               Iakovos S. Venieris},
+  title     = {The Simplicity Project and its Demonstrator: Improving Ease of Use
+               and Personalization of {ICT} Services},
+  booktitle = {Proceedings of the Global Telecommunications Conference, 2006. {GLOBECOM}
+               '06, San Francisco, CA, USA, 27 November - 1 December 2006},
+  publisher = {{IEEE}},
+  year      = {2006},
+  url       = {https://doi.org/10.1109/GLOCOM.2006.177},
+  doi       = {10.1109/GLOCOM.2006.177},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/globecom/BartolomeoBMSKKPTV06.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

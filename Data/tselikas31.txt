@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/pci/DatsikasPSTT10,
+  author    = {Christos Datsikas and
+               Kostas P. Peppas and
+               Nikos C. Sagias and
+               Nikolaos D. Tselikas and
+               George S. Tombras},
+  title     = {Bit Error and Outage Probability of Serial Relaying Communication
+               Systems},
+  booktitle = {14th Panhellenic Conference on Informatics, {PCI} 2010, Tripoli, Greece,
+               September 10-12, 2010},
+  pages     = {85--88},
+  publisher = {{IEEE} Computer Society},
+  year      = {2010},
+  url       = {https://doi.org/10.1109/PCI.2010.18},
+  doi       = {10.1109/PCI.2010.18},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/pci/DatsikasPSTT10.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

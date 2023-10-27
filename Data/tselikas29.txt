@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/pci/KeskempesRTB11,
+  author    = {Athanasios Keskempes and
+               Anthony Roussos and
+               Nikolaos D. Tselikas and
+               Anthony C. Boucouvalas},
+  editor    = {Pantelis Angelidis and
+               Angelos Michalas},
+  title     = {Seismicity Online Grid Map for Regional Earthquake Activity Studies},
+  booktitle = {15th Panhellenic Conference on Informatics, {PCI} 2011, Kastoria,
+               Greece, September 30 - October 2, 2011},
+  pages     = {321--329},
+  publisher = {{IEEE} Computer Society},
+  year      = {2011},
+  url       = {https://doi.org/10.1109/PCI.2011.82},
+  doi       = {10.1109/PCI.2011.82},
+  timestamp = {Wed, 15 Jun 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/pci/KeskempesRTB11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

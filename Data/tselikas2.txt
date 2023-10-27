@@ -1,0 +1,17 @@
+@article{DBLP:journals/infsof/KapitsakiTKP22,
+  author    = {Georgia M. Kapitsaki and
+               Nikolaos D. Tselikas and
+               Kyriakos{-}Ioannis D. Kyriakou and
+               Maria Papoutsoglou},
+  title     = {Help me with this: {A} categorization of open source software problems},
+  journal   = {Inf. Softw. Technol.},
+  volume    = {152},
+  pages     = {107034},
+  year      = {2022},
+  url       = {https://doi.org/10.1016/j.infsof.2022.107034},
+  doi       = {10.1016/j.infsof.2022.107034},
+  timestamp = {Tue, 18 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/infsof/KapitsakiTKP22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

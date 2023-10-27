@@ -1,0 +1,18 @@
+@article{DBLP:journals/computing/ChaniotisKT15,
+  author    = {Ioannis K. Chaniotis and
+               Kyriakos{-}Ioannis D. Kyriakou and
+               Nikolaos D. Tselikas},
+  title     = {Is Node.js a viable option for building modern web applications? {A}
+               performance evaluation study},
+  journal   = {Computing},
+  volume    = {97},
+  number    = {10},
+  pages     = {1023--1044},
+  year      = {2015},
+  url       = {https://doi.org/10.1007/s00607-014-0394-9},
+  doi       = {10.1007/s00607-014-0394-9},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/computing/ChaniotisKT15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/icc/KapellakiTCKPV05,
+  author    = {Sofia Kapellaki and
+               Nikolaos D. Tselikas and
+               Emmanuel S. Chaniotakis and
+               Eleftherios Koutsoloukas and
+               George N. Prezerakos and
+               Iakovos S. Venieris},
+  title     = {The "Le" interface: performance evaluation of 2-tier and 3-tier 3GPP
+               compliant realizations},
+  booktitle = {Proceedings of {IEEE} International Conference on Communications,
+               {ICC} 2005, Seoul, Korea, 16-20 May 2005},
+  pages     = {1423--1427},
+  publisher = {{IEEE}},
+  year      = {2005},
+  url       = {https://doi.org/10.1109/ICC.2005.1494580},
+  doi       = {10.1109/ICC.2005.1494580},
+  timestamp = {Wed, 16 Oct 2019 14:14:50 +0200},
+  biburl    = {https://dblp.org/rec/conf/icc/KapellakiTCKPV05.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

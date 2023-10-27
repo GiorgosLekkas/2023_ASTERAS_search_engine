@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/ccnc/KyriakouCT15,
+  author    = {Kyriakos{-}Ioannis D. Kyriakou and
+               Ioannis K. Chaniotis and
+               Nikolaos D. Tselikas},
+  title     = {The {GPM} meta-transcompiler: Harmonizing JavaScript-oriented Web
+               development with the upcoming ECMAScript 6 "Harmony" specification},
+  booktitle = {12th Annual {IEEE} Consumer Communications and Networking Conference,
+               {CCNC} 2015, Las Vegas, NV, USA, January 9-12, 2015},
+  pages     = {176--181},
+  publisher = {{IEEE}},
+  year      = {2015},
+  url       = {https://doi.org/10.1109/CCNC.2015.7157973},
+  doi       = {10.1109/CCNC.2015.7157973},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/ccnc/KyriakouCT15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

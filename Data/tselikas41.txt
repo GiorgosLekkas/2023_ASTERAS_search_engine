@@ -1,0 +1,22 @@
+@article{DBLP:journals/cn/LioudakisKDTKPKV07,
+  author    = {Georgios V. Lioudakis and
+               Eleftherios Koutsoloukas and
+               Nikolaos L. Dellas and
+               Nikolaos D. Tselikas and
+               Sofia Kapellaki and
+               George N. Prezerakos and
+               Dimitra I. Kaklamani and
+               Iakovos S. Venieris},
+  title     = {A middleware architecture for privacy protection},
+  journal   = {Comput. Networks},
+  volume    = {51},
+  number    = {16},
+  pages     = {4679--4696},
+  year      = {2007},
+  url       = {https://doi.org/10.1016/j.comnet.2007.06.010},
+  doi       = {10.1016/j.comnet.2007.06.010},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/cn/LioudakisKDTKPKV07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

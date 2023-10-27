@@ -1,0 +1,15 @@
+@article{DBLP:journals/jwe/RoumeliotisT22,
+  author    = {Konstantinos I. Roumeliotis and
+               Nikolaos D. Tselikas},
+  title     = {An Effective {SEO} Techniques and Technologies Guide-map},
+  journal   = {J. Web Eng.},
+  volume    = {21},
+  number    = {5},
+  year      = {2022},
+  url       = {https://doi.org/10.13052/jwe1540-9589.21510},
+  doi       = {10.13052/jwe1540-9589.21510},
+  timestamp = {Sat, 17 Sep 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/jwe/RoumeliotisT22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

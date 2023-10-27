@@ -1,0 +1,24 @@
+@inproceedings{DBLP:conf/pci/SeklouKTB19,
+  author    = {Kyriaki Seklou and
+               Panagiotis C. Kokkinos and
+               Nikolaos D. Tselikas and
+               Anthony C. Boukouvalas},
+  editor    = {Yannis Manolopoulos and
+               George Angelos Papadopoulos and
+               Athena Stassopoulou and
+               Ioanna Dionysiou and
+               Ioannis Kyriakides and
+               Nicolas Tsapatsoulis},
+  title     = {Monitoring and management of home appliances with {NETCONF} and {YANG}},
+  booktitle = {Proceedings of the 23rd Pan-Hellenic Conference on Informatics, {PCI}
+               2019, Nicosia, Cyprus, November 28-30, 2019},
+  pages     = {25--32},
+  publisher = {{ACM}},
+  year      = {2019},
+  url       = {https://doi.org/10.1145/3368640.3368643},
+  doi       = {10.1145/3368640.3368643},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/pci/SeklouKTB19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

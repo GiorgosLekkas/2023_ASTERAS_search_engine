@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/mswim/TselikasKB13,
+  author    = {Nikolaos D. Tselikas and
+               Evangelos A. Kosmatos and
+               Anthony C. Boucouvalas},
+  editor    = {Juan{-}Carlos Cano and
+               Richard W. Pazzi and
+               Abdelhamid Mammeri},
+  title     = {Performance evaluation of handoff algorithms applied in vehicular
+               60GHz radio-over-fiber networks},
+  booktitle = {Proceedings of the 8th {ACM} Workshop on Performance Monitoring and
+               Measurement of Heterogeneous Wireless and Wired Networks, {PM2HW2N}
+               2013, Barcelona, Spain, November 3-8, 2013},
+  pages     = {161--166},
+  publisher = {{ACM}},
+  year      = {2013},
+  url       = {https://doi.org/10.1145/2512840.2512862},
+  doi       = {10.1145/2512840.2512862},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/mswim/TselikasKB13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

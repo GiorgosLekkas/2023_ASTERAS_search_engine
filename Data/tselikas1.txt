@@ -1,0 +1,18 @@
+@article{DBLP:journals/fi/GatziolisTM22,
+  author    = {Kleanthis G. Gatziolis and
+               Nikolaos D. Tselikas and
+               Ioannis D. Moscholios},
+  title     = {Adaptive User Profiling in E-Commerce and Administration of Public
+               Services},
+  journal   = {Future Internet},
+  volume    = {14},
+  number    = {5},
+  pages     = {144},
+  year      = {2022},
+  url       = {https://doi.org/10.3390/fi14050144},
+  doi       = {10.3390/fi14050144},
+  timestamp = {Thu, 23 Jun 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/fi/GatziolisTM22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

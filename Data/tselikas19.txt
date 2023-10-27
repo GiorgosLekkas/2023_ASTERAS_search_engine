@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/csndsp/KosmatosTS14,
+  author    = {Evangelos A. Kosmatos and
+               Nikolaos D. Tselikas and
+               Nikos C. Sagias},
+  title     = {Minimizing packet loss in high-mobility radio-over-fiber networks},
+  booktitle = {9th International Symposium on Communication Systems, Networks {\&}
+               Digital Signal Processing, {CSNDSP} 2014, Manchester, UK, July 23-25,
+               2014},
+  pages     = {117--121},
+  publisher = {{IEEE}},
+  year      = {2014},
+  url       = {https://doi.org/10.1109/CSNDSP.2014.6923809},
+  doi       = {10.1109/CSNDSP.2014.6923809},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/csndsp/KosmatosTS14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

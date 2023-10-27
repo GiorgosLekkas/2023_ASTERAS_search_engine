@@ -1,0 +1,20 @@
+@article{DBLP:journals/comcom/TselikasKKPV07,
+  author    = {Nikolaos D. Tselikas and
+               Sofia Kapellaki and
+               Eleftherios Koutsoloukas and
+               George N. Prezerakos and
+               Iakovos S. Venieris},
+  title     = {OSA/Parlay-based middleware architecture and performance analysis
+               for homogeneous service provision in Next Generation Networks},
+  journal   = {Comput. Commun.},
+  volume    = {30},
+  number    = {3},
+  pages     = {564--576},
+  year      = {2007},
+  url       = {https://doi.org/10.1016/j.comcom.2005.11.016},
+  doi       = {10.1016/j.comcom.2005.11.016},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/comcom/TselikasKKPV07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

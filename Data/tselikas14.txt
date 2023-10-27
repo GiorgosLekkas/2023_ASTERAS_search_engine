@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/ccnc/TselikasK15,
+  author    = {Nikolaos D. Tselikas and
+               Evangelos A. Kosmatos},
+  title     = {Handoff algorithms in vehicular Radio-over-Fiber networks: Packet
+               loss mathematical analysis and performance evaluation study},
+  booktitle = {12th Annual {IEEE} Consumer Communications and Networking Conference,
+               {CCNC} 2015, Las Vegas, NV, USA, January 9-12, 2015},
+  pages     = {115--120},
+  publisher = {{IEEE}},
+  year      = {2015},
+  url       = {https://doi.org/10.1109/CCNC.2015.7157956},
+  doi       = {10.1109/CCNC.2015.7157956},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/ccnc/TselikasK15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

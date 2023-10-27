@@ -1,0 +1,23 @@
+@inproceedings{DBLP:conf/mobiwis/ChaniotisKT13,
+  author    = {Ioannis K. Chaniotis and
+               Kyriakos{-}Ioannis D. Kyriakou and
+               Nikolaos D. Tselikas},
+  editor    = {Florian Daniel and
+               George A. Papadopoulos and
+               Philippe Thiran},
+  title     = {Proximity: {A} Real-Time, Location Aware Social Web Application Built
+               with Node.js and AngularJS},
+  booktitle = {Mobile Web and Information Systems - 10th International Conference,
+               MobiWIS 2013, Paphos, Cyprus, August 26-29, 2013. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {8093},
+  pages     = {292--295},
+  publisher = {Springer},
+  year      = {2013},
+  url       = {https://doi.org/10.1007/978-3-642-40276-0\_23},
+  doi       = {10.1007/978-3-642-40276-0\_23},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/mobiwis/ChaniotisKT13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

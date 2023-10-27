@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/imcsit/PapagianniPPTKV08,
+  author    = {Chrysa Papagianni and
+               Kostas Papadopoulos and
+               Christos A. Pappas and
+               Nikolaos D. Tselikas and
+               Dimitra I. Kaklamani and
+               Iakovos S. Venieris},
+  title     = {Communication network design using Particle Swarm Optimization},
+  booktitle = {Proceedings of the International Multiconference on Computer Science
+               and Information Technology, {IMCSIT} 2008, Wisla, Poland, 20-22 October
+               2008},
+  pages     = {915--920},
+  publisher = {{IEEE}},
+  year      = {2008},
+  url       = {https://doi.org/10.1109/IMCSIT.2008.4747351},
+  doi       = {10.1109/IMCSIT.2008.4747351},
+  timestamp = {Mon, 03 Jan 2022 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/imcsit/PapagianniPPTKV08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

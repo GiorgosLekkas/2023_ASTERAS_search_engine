@@ -1,0 +1,19 @@
+@article{DBLP:journals/wpc/TselikasKKCV04,
+  author    = {Nikolaos D. Tselikas and
+               Eleftherios Koutsoloukas and
+               Sofia Kapellaki and
+               Emmanuel S. Chaniotakis and
+               Iakovos S. Venieris},
+  title     = {An OSA/Parlay-Based Middleware Architecture for Location-Based Services},
+  journal   = {Wirel. Pers. Commun.},
+  volume    = {30},
+  number    = {2-4},
+  pages     = {247--265},
+  year      = {2004},
+  url       = {https://doi.org/10.1023/B:WIRE.0000049403.07867.0b},
+  doi       = {10.1023/B:WIRE.0000049403.07867.0b},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/wpc/TselikasKKCV04.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

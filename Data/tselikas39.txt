@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/iscc/PapagianniTKPKKV08,
+  author    = {Chrysa Papagianni and
+               Nikolaos D. Tselikas and
+               Evangelos A. Kosmatos and
+               Andreas E. Papadakis and
+               Thierry Keutgen and
+               Dimitra I. Kaklamani and
+               Iakovos S. Venieris},
+  title     = {A complete content production and delivery system in a controlled
+               multimedia network},
+  booktitle = {Proceedings of the 13th {IEEE} Symposium on Computers and Communications
+               {(ISCC} 2008), July 6-9, Marrakech, Morocco},
+  pages     = {44--49},
+  publisher = {{IEEE} Computer Society},
+  year      = {2008},
+  url       = {https://doi.org/10.1109/ISCC.2008.4625773},
+  doi       = {10.1109/ISCC.2008.4625773},
+  timestamp = {Mon, 03 Jan 2022 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/iscc/PapagianniTKPKKV08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

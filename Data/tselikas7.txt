@@ -1,0 +1,17 @@
+@article{DBLP:journals/jss/KapitsakiKT17,
+  author    = {Georgia M. Kapitsaki and
+               Frederik Kramer and
+               Nikolaos D. Tselikas},
+  title     = {Automating the license compatibility process in open source software
+               with {SPDX}},
+  journal   = {J. Syst. Softw.},
+  volume    = {131},
+  pages     = {386--401},
+  year      = {2017},
+  url       = {https://doi.org/10.1016/j.jss.2016.06.064},
+  doi       = {10.1016/j.jss.2016.06.064},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/jss/KapitsakiKT17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,18 @@
+@article{DBLP:journals/jss/KapitsakiPTV09,
+  author    = {Georgia M. Kapitsaki and
+               George N. Prezerakos and
+               Nikolaos D. Tselikas and
+               Iakovos S. Venieris},
+  title     = {Context-aware service engineering: {A} survey},
+  journal   = {J. Syst. Softw.},
+  volume    = {82},
+  number    = {8},
+  pages     = {1285--1297},
+  year      = {2009},
+  url       = {https://doi.org/10.1016/j.jss.2009.02.026},
+  doi       = {10.1016/j.jss.2009.02.026},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/jss/KapitsakiPTV09.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

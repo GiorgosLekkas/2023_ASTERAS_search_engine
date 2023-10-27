@@ -1,0 +1,16 @@
+@article{DBLP:journals/jss/KapitsakiTF15,
+  author    = {Georgia M. Kapitsaki and
+               Nikolaos D. Tselikas and
+               Ioannis E. Foukarakis},
+  title     = {An insight into license tools for open source software systems},
+  journal   = {J. Syst. Softw.},
+  volume    = {102},
+  pages     = {72--87},
+  year      = {2015},
+  url       = {https://doi.org/10.1016/j.jss.2014.12.050},
+  doi       = {10.1016/j.jss.2014.12.050},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/jss/KapitsakiTF15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,18 @@
+@article{DBLP:journals/ait/KosmatosTB11,
+  author    = {Evangelos A. Kosmatos and
+               Nikolaos D. Tselikas and
+               Anthony C. Boucouvalas},
+  title     = {Integrating RFIDs and Smart Objects into a Unified Internet of Things
+               Architecture},
+  journal   = {Adv. Internet Things},
+  volume    = {1},
+  number    = {1},
+  pages     = {5--12},
+  year      = {2011},
+  url       = {https://doi.org/10.4236/ait.2011.11002},
+  doi       = {10.4236/ait.2011.11002},
+  timestamp = {Fri, 07 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/ait/KosmatosTB11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

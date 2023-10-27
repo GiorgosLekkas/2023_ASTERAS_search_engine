@@ -1,0 +1,16 @@
+@article{DBLP:journals/pe/KosmatosT16,
+  author    = {Evangelos A. Kosmatos and
+               Nikolaos D. Tselikas},
+  title     = {Dominant handover algorithms for vehicular Radio-over-Fiber networks
+               at 60 GHz: {A} performance evaluation study},
+  journal   = {Perform. Evaluation},
+  volume    = {102},
+  pages     = {21--33},
+  year      = {2016},
+  url       = {https://doi.org/10.1016/j.peva.2016.05.001},
+  doi       = {10.1016/j.peva.2016.05.001},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/pe/KosmatosT16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

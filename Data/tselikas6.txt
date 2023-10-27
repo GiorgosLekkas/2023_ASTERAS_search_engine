@@ -1,0 +1,25 @@
+@inproceedings{DBLP:conf/oss/KyriakouTK18,
+  author    = {Kyriakos{-}Ioannis D. Kyriakou and
+               Nikolaos D. Tselikas and
+               Georgia M. Kapitsaki},
+  editor    = {Ioannis Stamelos and
+               Jes{\'{u}}s M. Gonz{\'{a}}lez{-}Barahona and
+               Iraklis Varlamis and
+               Dimosthenis Anagnostopoulos},
+  title     = {Improving {C/C++} Open Source Software Discoverability by Utilizing
+               Rust and Node.js Ecosystems},
+  booktitle = {Open Source Systems: Enterprise Software and Solutions - 14th {IFIP}
+               {WG} 2.13 International Conference, {OSS} 2018, Athens, Greece, June
+               8-10, 2018, Proceedings},
+  series    = {{IFIP} Advances in Information and Communication Technology},
+  volume    = {525},
+  pages     = {181--192},
+  publisher = {Springer},
+  year      = {2018},
+  url       = {https://doi.org/10.1007/978-3-319-92375-8\_15},
+  doi       = {10.1007/978-3-319-92375-8\_15},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/oss/KyriakouTK18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

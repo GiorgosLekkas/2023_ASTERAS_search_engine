@@ -1,0 +1,20 @@
+@article{DBLP:journals/jnca/PapagianniTKPV09,
+  author    = {Chryssa A. Papagianni and
+               Nikolaos D. Tselikas and
+               Evangelos A. Kosmatos and
+               Stavros Papapanagiotou and
+               Iakovos S. Venieris},
+  title     = {Performance evaluation study for QoS-aware triple play services over
+               entry-level xDSL connections},
+  journal   = {J. Netw. Comput. Appl.},
+  volume    = {32},
+  number    = {1},
+  pages     = {215--225},
+  year      = {2009},
+  url       = {https://doi.org/10.1016/j.jnca.2008.03.006},
+  doi       = {10.1016/j.jnca.2008.03.006},
+  timestamp = {Thu, 14 Oct 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/jnca/PapagianniTKPV09.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

@@ -1,0 +1,23 @@
+@inproceedings{DBLP:conf/iiwas/KapitsakiKPTV08,
+  author    = {Georgia M. Kapitsaki and
+               Dimitrios A. Kateros and
+               Christos A. Pappas and
+               Nikolaos D. Tselikas and
+               Iakovos S. Venieris},
+  editor    = {Gabriele Kotsis and
+               David Taniar and
+               Eric Pardede and
+               Ismail Khalil Ibrahim},
+  title     = {Model-driven development of composite web applications},
+  booktitle = {iiWAS'2008 - The Tenth International Conference on Information Integration
+               and Web-based Applications Services, 24-26 November 2008, Linz, Austria},
+  pages     = {399--402},
+  publisher = {{ACM}},
+  year      = {2008},
+  url       = {https://doi.org/10.1145/1497308.1497380},
+  doi       = {10.1145/1497308.1497380},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/iiwas/KapitsakiKPTV08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

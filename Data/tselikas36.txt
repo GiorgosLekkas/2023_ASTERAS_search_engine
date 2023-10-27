@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/IEEEscc/KaterosKTV08,
+  author    = {Dimitrios A. Kateros and
+               Georgia M. Kapitsaki and
+               Nikolaos D. Tselikas and
+               Iakovos S. Venieris},
+  title     = {A Methodology for Model-Driven Web Application Composition},
+  booktitle = {2008 {IEEE} International Conference on Services Computing {(SCC}
+               2008), 8-11 July 2008, Honolulu, Hawaii, {USA}},
+  pages     = {489--492},
+  publisher = {{IEEE} Computer Society},
+  year      = {2008},
+  url       = {https://doi.org/10.1109/SCC.2008.58},
+  doi       = {10.1109/SCC.2008.58},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/IEEEscc/KaterosKTV08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

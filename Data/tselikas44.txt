@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/icws/PrezerakosTC07,
+  author    = {George N. Prezerakos and
+               Nikolaos D. Tselikas and
+               Giovanni Cortese},
+  title     = {Model-driven Composition of Context-aware Web Services Using ContextUML
+               and Aspects},
+  booktitle = {2007 {IEEE} International Conference on Web Services {(ICWS} 2007),
+               July 9-13, 2007, Salt Lake City, Utah, {USA}},
+  pages     = {320--329},
+  publisher = {{IEEE} Computer Society},
+  year      = {2007},
+  url       = {https://doi.org/10.1109/ICWS.2007.123},
+  doi       = {10.1109/ICWS.2007.123},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/icws/PrezerakosTC07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

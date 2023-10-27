@@ -1,0 +1,21 @@
+@article{DBLP:journals/jss/TselikasDKKPV07,
+  author    = {Nikolaos D. Tselikas and
+               Nikolaos L. Dellas and
+               Eleftherios Koutsoloukas and
+               Sofia Kapellaki and
+               George N. Prezerakos and
+               Iakovos S. Venieris},
+  title     = {Distributed service provision using open APIs-based middleware: "OSA/Parlay
+               vs. JAIN" performance evaluation study},
+  journal   = {J. Syst. Softw.},
+  volume    = {80},
+  number    = {5},
+  pages     = {765--777},
+  year      = {2007},
+  url       = {https://doi.org/10.1016/j.jss.2006.06.035},
+  doi       = {10.1016/j.jss.2006.06.035},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/jss/TselikasDKKPV07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

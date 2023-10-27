@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/icc/TsagkarisTP09,
+  author    = {Kostas Tsagkaris and
+               Nikolaos D. Tselikas and
+               Nikos Pleros},
+  title     = {A Handover Scheme Based on Moving Extended Cells for 60 GHz Radio-Over-Fiber
+               Networks},
+  booktitle = {Proceedings of {IEEE} International Conference on Communications,
+               {ICC} 2009, Dresden, Germany, 14-18 June 2009},
+  pages     = {1--5},
+  publisher = {{IEEE}},
+  year      = {2009},
+  url       = {https://doi.org/10.1109/ICC.2009.5198615},
+  doi       = {10.1109/ICC.2009.5198615},
+  timestamp = {Sun, 02 Oct 2022 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/icc/TsagkarisTP09.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

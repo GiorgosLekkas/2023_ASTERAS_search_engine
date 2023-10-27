@@ -1,0 +1,20 @@
+@article{DBLP:journals/wc/KatsigiannisKKTV06,
+  author    = {Christos I. Katsigiannis and
+               Dimitrios A. Kateros and
+               Eleftherios Koutsoloukas and
+               Nikolaos D. Tselikas and
+               Iakovos S. Venieris},
+  title     = {Architecture for reliable service discovery and delivery in manets
+               based on power management employing slp extensions},
+  journal   = {{IEEE} Wirel. Commun.},
+  volume    = {13},
+  number    = {5},
+  pages     = {90--95},
+  year      = {2006},
+  url       = {https://doi.org/10.1109/WC-M.2006.250364},
+  doi       = {10.1109/WC-M.2006.250364},
+  timestamp = {Mon, 26 Oct 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/wc/KatsigiannisKKTV06.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

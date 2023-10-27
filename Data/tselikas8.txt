@@ -1,0 +1,24 @@
+@inproceedings{DBLP:conf/pci/Tselikas17,
+  author    = {Nikolaos D. Tselikas},
+  editor    = {Vasileios Vlachos and
+               Ilias K. Savvas and
+               Cleo Sgouropoulou and
+               Vassilis P. Plagianakos and
+               Christos Douligeris and
+               Ioannis Voyiatzis and
+               Vassilis Tampakas and
+               George Soultis},
+  title     = {Handoff in picocellular mobile networks with fast-moving users: Problems
+               and Solutions},
+  booktitle = {Proceedings of the 21st Pan-Hellenic Conference on Informatics, Larissa,
+               Greece, September 28-30, 2017},
+  pages     = {25:1--25:6},
+  publisher = {{ACM}},
+  year      = {2017},
+  url       = {https://doi.org/10.1145/3139367.3139388},
+  doi       = {10.1145/3139367.3139388},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/pci/Tselikas17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

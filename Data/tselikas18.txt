@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/camad/TselikasKB14,
+  author    = {Nikolaos D. Tselikas and
+               Evangelos A. Kosmatos and
+               Anthony C. Boucouvalas},
+  title     = {The Moving Extended N-Cells handover algorithm in vehicular radio-over-fiber
+               networks at 60GHz},
+  booktitle = {19th {IEEE} International Workshop on Computer Aided Modeling and
+               Design of Communication Links and Networks, {CAMAD} 2014, Athens,
+               Greece, December 1-3, 2014},
+  pages     = {158--162},
+  publisher = {{IEEE}},
+  year      = {2014},
+  url       = {https://doi.org/10.1109/CAMAD.2014.7033226},
+  doi       = {10.1109/CAMAD.2014.7033226},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/camad/TselikasKB14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

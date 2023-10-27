@@ -1,0 +1,23 @@
+@inproceedings{DBLP:conf/pci/SoukarasCKSTTFB12,
+  author    = {Dimitrios P. Soukaras and
+               Ioannis K. Chaniotis and
+               Ioannis G. Karagiannis and
+               Ilianna S. Stampologlou and
+               Christianna A. Triantafyllou and
+               Nikolaos D. Tselikas and
+               Ioannis E. Foukarakis and
+               Anthony C. Boucouvalas},
+  title     = {Augmented Audio Reality Mobile Application Specially Designed for
+               Visually Impaired People},
+  booktitle = {16th Panhellenic Conference on Informatics, {PCI} 2012, Piraeus, Greece,
+               October 5-7, 2012},
+  pages     = {13--18},
+  publisher = {{IEEE} Computer Society},
+  year      = {2012},
+  url       = {https://doi.org/10.1109/PCi.2012.50},
+  doi       = {10.1109/PCi.2012.50},
+  timestamp = {Sun, 25 Oct 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/pci/SoukarasCKSTTFB12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

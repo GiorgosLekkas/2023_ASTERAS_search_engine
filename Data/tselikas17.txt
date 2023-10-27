@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/educon/PapadakisTSP15,
+  author    = {Andreas E. Papadakis and
+               Nikolaos D. Tselikas and
+               Maria Samarakou and
+               Pantelis Prentakis},
+  title     = {Assessing students approaches in the context of telecommunications
+               services provision},
+  booktitle = {{IEEE} Global Engineering Education Conference, {EDUCON} 2015, Tallinn,
+               Estonia, March 18-20, 2015},
+  pages     = {532--535},
+  publisher = {{IEEE}},
+  year      = {2015},
+  url       = {https://doi.org/10.1109/EDUCON.2015.7096021},
+  doi       = {10.1109/EDUCON.2015.7096021},
+  timestamp = {Thu, 14 Oct 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/educon/PapadakisTSP15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
